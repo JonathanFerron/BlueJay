@@ -25,6 +25,7 @@
 - fuse and large decoupling cap close to usb jack
 - keep usb data lines short and same length, no vias
 - regular trace .25mm and power trace .4mm
+- ideal spacing between PTH components of 4mm
 - minimize number of vias
 - keep traces short in general
 
@@ -36,8 +37,8 @@
 	+ All 1U keys:
 	+ 10 x R1 top (number) row
 	+ 12 x R2 qwerty row
-	+ 12 x R3 home row
+	+ 10 x R3 home row + 2 R3 homing keys
 	+ 12 x R4 bottom row
 	+ 8 x R2 thumb keys
-	+ Total 54 keycaps
+	+ = Total 54 keycaps
 
