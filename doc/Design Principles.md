@@ -21,6 +21,7 @@
 - black dcs keycaps
 
 - crystal and small decoupling caps closest to mcu
+- keep trace from decoupling caps to ground plane as short as possible
 - fuse and large decoupling cap close to usb jack
 - keep usb data lines short and same length, no vias
 - regular trace .25mm and power trace .4mm
@@ -32,4 +33,11 @@
 - through hole
 
 - 6 columns, 5 rows in total (of which one is thumb cluster): 5 top row + 3x6 middle + 4 thumb cluster per hand: total of 54 keys
+	+ All 1U keys:
+	+ 10 x R1 top (number) row
+	+ 12 x R2 qwerty row
+	+ 12 x R3 home row
+	+ 12 x R4 bottom row
+	+ 8 x R2 thumb keys
+	+ Total 54 keycaps
 
