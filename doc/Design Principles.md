@@ -39,6 +39,5 @@
 	+ 12 x R2 qwerty row
 	+ 10 x R3 home row + 2 R3 homing keys
 	+ 12 x R4 bottom row
-	+ 8 x R2 thumb keys
+	+ 8 x R2 thumb keys (get an extra set of 8 R1 keys as well)
 	+ = Total 54 keycaps
-
