@@ -22,10 +22,10 @@
 
 - crystal and small decoupling caps closest to mcu
 - keep trace from decoupling caps to ground plane as short as possible
-- fuse and large decoupling cap close to usb jack
+- fuse and large decoupling cap close to usb jack, large decouping cap close to jack on right hand
 - keep usb data lines short and same length, no vias
 - regular trace .25mm and power trace .4mm
-- ideal spacing between PTH components of 4mm
+- ideal spacing between PTH components: spread components on entire board as uniformly as possible, minimum distance between two components (body to body) of 4mm, minimum distance from lead to lead of 2.54mm (100 mils), or minimum distance equal to height of the neigbour components
 - minimize number of vias
 - keep traces short in general
 
