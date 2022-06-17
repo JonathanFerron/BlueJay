@@ -1,3 +1,12 @@
 (fp_lib_table
   (lib (name "BlueJay footprints")(type "KiCad")(uri "C:/Users/Jonathan/Documents/ergo kb/BlueJay/github/BlueJay/lib_fp.pretty")(options "")(descr ""))
+  (lib (name "Capacitor_THT_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Capacitor_THT_AKL.pretty")(options "")(descr ""))
+  (lib (name "Crystal_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Crystal_AKL.pretty")(options "")(descr ""))
+  (lib (name "Diode_THT_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Diode_THT_AKL.pretty")(options "")(descr ""))
+  (lib (name "Ferrite_THT_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Ferrite_THT_AKL.pretty")(options "")(descr ""))
+  (lib (name "Fuse_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Fuse_AKL.pretty")(options "")(descr ""))
+  (lib (name "Inductor_THT_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Inductor_THT_AKL.pretty")(options "")(descr ""))
+  (lib (name "Jumper_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Jumper_AKL.pretty")(options "")(descr ""))
+  (lib (name "Resistor_THT_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Resistor_THT_AKL.pretty")(options "")(descr ""))
+  (lib (name "Package_DIP_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_dawidcislo_alternate-kicad-library/Package_DIP_AKL.pretty")(options "")(descr ""))
 )

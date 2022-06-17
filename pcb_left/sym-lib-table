@@ -2,4 +2,8 @@
   (lib (name "BlueJaySymbolLibrary")(type "KiCad")(uri "C:/Users/Jonathan/Documents/ergo kb/BlueJay/github/BlueJay/lib_sch/BlueJaySymbolLibrary.kicad_sym")(options "")(descr ""))
   (lib (name "torn left")(type "KiCad")(uri "C:/Users/Jonathan/Documents/ergo kb/torn/kicad/torn_left/torn_left-cache.kicad_sym")(options "")(descr ""))
   (lib (name "torn right")(type "KiCad")(uri "C:/Users/Jonathan/Documents/ergo kb/torn/kicad/torn_right/torn_right-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "Device_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/Device_AKL.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/Diode_AKL.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode_Schottky_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/Diode_Schottky_AKL.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode_Zener_AKL")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/Diode_Zener_AKL.kicad_sym")(options "")(descr ""))
 )
