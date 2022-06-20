@@ -1,4 +1,4 @@
-23775643176730691
+23777299041160544
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -391,6 +391,13 @@ tact sw push 6mm
 0
 4
 2
+BlueJay footprints
+USB_Mini_B_Female_548190519
+
+
+0
+7
+6
 BlueJay footprints
 polyfuse_5.1mm
 
