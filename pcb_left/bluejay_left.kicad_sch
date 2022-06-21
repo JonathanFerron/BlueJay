@@ -4,6 +4,10 @@
 
   (paper "USLetter")
 
+  (title_block
+    (title "BlueJay Left")
+  )
+
   (lib_symbols
     (symbol "BlueJaySymbolLibrary:0548190519" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -5.715 12.7 0)
@@ -12,7 +16,7 @@
       (property "Value" "0548190519" (id 1) (at -8.255 -5.715 90)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Footprint" "digikey-footprints:USB_Mini_B_Female_548190519" (id 2) (at 5.08 5.08 0)
+      (property "Footprint" "BlueJay footprints:USB_Mini_B_Female_548190519" (id 2) (at 5.08 5.08 0)
         (effects (font (size 1.524 1.524)) (justify left) hide)
       )
       (property "Datasheet" "https://www.molex.com/pdm_docs/sd/548190519_sd.pdf" (id 3) (at 5.08 7.62 0)
@@ -273,7 +277,7 @@
           (number "4" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at 7.62 -5.08 180) (length 2.667)
-          (name "VUSB" (effects (font (size 1.27 1.27))))
+          (name "VBUS" (effects (font (size 1.27 1.27))))
           (number "5" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at -5.08 -12.7 90) (length 2.794)
@@ -2960,7 +2964,7 @@
     (property "Value" "USB_B_Mini" (id 1) (at 23.241 63.5 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "digikey-footprints:USB_Mini_B_Female_548190519" (id 2) (at 29.21 72.39 0)
+    (property "Footprint" "BlueJay footprints:USB_Mini_B_Female_548190519" (id 2) (at 29.21 72.39 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "https://www.molex.com/pdm_docs/sd/548190519_sd.pdf" (id 3) (at 29.21 69.85 0)
@@ -4037,7 +4041,7 @@
       (reference "U1") (unit 1) (value "ATmega328P-PU") (footprint "Package_DIP_AKL:DIP-28_W7.62mm_Socket")
     )
     (path "/65732213-2735-40de-8dfe-4a9a7e1cbc16"
-      (reference "USB1") (unit 1) (value "USB_B_Mini") (footprint "digikey-footprints:USB_Mini_B_Female_548190519")
+      (reference "USB1") (unit 1) (value "USB_B_Mini") (footprint "BlueJay footprints:USB_Mini_B_Female_548190519")
     )
     (path "/a4afee0d-8e42-4a5d-aac7-862e4657a136"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "BlueJay footprints:Crystal_HC49-4H_Vertical")
