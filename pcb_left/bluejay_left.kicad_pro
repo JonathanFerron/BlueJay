@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.7,
+          "height": 1.1,
+          "width": 1.65
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -379,6 +379,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
+          "Net-(F1-Pad2)",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -398,12 +399,12 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
-      "specctra_dsn": "",
+      "netlist": "../../../../../../../../Program Files/KiCad/6.0/",
+      "specctra_dsn": "bluejay_left.dsn",
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "C:/Users/berno/Documents/Jonathan/ergo kb/BlueJay/GitHub/BlueJay/misc/BlueJay.kicad_wks"
+    "page_layout_descr_file": "C:/Users/Jonathan/Documents/ergo kb/BlueJay/github/BlueJay/misc/BlueJay.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,

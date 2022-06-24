@@ -2,5 +2,5 @@
 [MCP23017 Datasheet](https://www.microchip.com/en-us/product/mcp23017)
 [SJ-43514](https://www.cuidevices.com/product/resource/sj-4351x.pdf)
 [4.7uF Electrolytic Capacitor ECE-A1EKS4R7 4mm dia 1.5 lead space](https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1059.pdf)
-[Bourns Resettable Fuse MT-R010, 100mA hold, 200mA trip, 7.4mm dia, 5.1 lead space, 12.7 height](https://www.bourns.com/docs/product-datasheets/mf-r.pdf?sfvrsn=bc732717_46)
+[Bourns Resettable Fuse MF-R010, 100mA hold, 200mA trip, 7.4mm dia, 5.1 lead space, 12.7 height](https://www.bourns.com/docs/product-datasheets/mf-r.pdf?sfvrsn=bc732717_46)
 [Molex 0548190519 Mini USB receptacle](https://www.molex.com/pdm_docs/sd/548190519_sd.pdf)
