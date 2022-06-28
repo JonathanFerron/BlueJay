@@ -6,11 +6,7 @@
 - fuse and large decoupling cap close to usb jack, large decouping cap close to jack on right hand
 - keep usb data lines short and same length, no vias
 - regular trace .25mm and power trace .4mm
-- ideal spacing between PTH components: spread components on entire board as uniformly as possible, minimum distance between two components (body to body) of 4mm, minimum distance from lead to lead of 2.54mm (100 mils), or minimum distance equal to height of the neigbour components
-- minimize number of vias
-- keep traces short in general
-
-- split, can be tented (very moderate, 3 to 4 degrees, use rubber bumpers)
+- ideal spacing between PTH components: spread components on entire board as uniformly as possible, minimum distance between two components (body to body) of 4mm, minimum distance from lead to lead of 2.5mm
 
 - 6 columns, 5 rows in total (of which one is thumb cluster): 5 top row + 3x6 middle + 4 thumb cluster per hand: total of 54 keys
 	+ All 1U keys:
