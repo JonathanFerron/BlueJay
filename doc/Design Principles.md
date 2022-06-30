@@ -1,11 +1,8 @@
 # BlueJay54 design principles
 
 - add a second 4.7uF decoup cap to right hand
-
 - keep trace from decoupling caps to ground plane as short as possible
-- fuse and large decoupling cap close to usb jack, large decouping cap close to jack on right hand
-- keep usb data lines short and same length, no vias
-- regular trace .25mm and power trace .4mm
+- large decouping cap close to jack on right hand
 - ideal spacing between PTH components: spread components on entire board as uniformly as possible, minimum distance between two components (body to body) of 4mm, minimum distance from lead to lead of 2.5mm
 
 - 6 columns, 5 rows in total (of which one is thumb cluster): 5 top row + 3x6 middle + 4 thumb cluster per hand: total of 54 keys
