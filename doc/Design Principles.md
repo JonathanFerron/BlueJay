@@ -1,8 +1,5 @@
 # BlueJay54 design principles
 
-- keep trace from decoupling caps to ground plane as short as possible
-- ideal spacing between PTH components: spread components on entire board as uniformly as possible, minimum distance between two components (body to body) of 4mm, minimum distance from lead to lead of 2.5mm
-
 - 6 columns, 5 rows in total (of which one is thumb cluster): 5 top row + 3x6 middle + 4 thumb cluster per hand: total of 54 keys
 	+ All 1U keys:
 	+ 10 x R1 top (number) row
