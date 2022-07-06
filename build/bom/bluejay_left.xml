@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Jonathan\Documents\ergo kb\BlueJay\github\BlueJay\pcb_left\bluejay_left.kicad_sch</source>
+    <date>2022-07-06 9:00:13 AM</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>BlueJay Left</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>bluejay_left.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>BlueJay footprints:C_Disc_D3.0mm_W1.6mm_P2.50mm</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>709a6874-5923-446e-9322-a60e23d13f71</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22p</value>
+      <footprint>BlueJay footprints:C_Disc_D3.0mm_W1.6mm_P2.50mm</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0c76107-1620-4d05-9cfd-c1cc933ae005</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7u</value>
+      <footprint>BlueJay footprints:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Device_CP1_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25d4dae8-ca7e-4cc9-b35f-a678ed89288b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>BlueJay footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4979ddc4-5cea-467a-a6b4-ec36799b5df4</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>BlueJay footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50176c68-0c1f-4eb8-a02b-d340df2bee61</tstamps>
+    </comp>
+    <comp ref="Da1">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a3ae171-fddc-48df-9a24-cb858ce40ad5</tstamps>
+    </comp>
+    <comp ref="Da2">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5961b042-a4ed-4553-9926-ccde922c5b2f</tstamps>
+    </comp>
+    <comp ref="Da3">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da3f23e-2b1e-426a-ad3b-2be728d321dc</tstamps>
+    </comp>
+    <comp ref="Da4">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59893fe0-05de-4024-9b6e-3f0056d25dc2</tstamps>
+    </comp>
+    <comp ref="Da5">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b218f0a2-3433-4050-9fb0-d8a096ad006e</tstamps>
+    </comp>
+    <comp ref="Db1">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>899b6e47-13aa-4bcf-a5a9-b39c58bc9ca7</tstamps>
+    </comp>
+    <comp ref="Db2">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>517b2851-ea48-4329-8362-f2ac8a7bc258</tstamps>
+    </comp>
+    <comp ref="Db3">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f84ddeba-f8a1-4aee-8bcf-ee3a0a9a7b92</tstamps>
+    </comp>
+    <comp ref="Db4">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cfb34d6-2417-46ee-9508-0e3da45aede7</tstamps>
+    </comp>
+    <comp ref="Db5">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89dd6f0a-9b3f-4efa-8efe-ceaad3e8fcce</tstamps>
+    </comp>
+    <comp ref="Dc1">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1add4bec-26b7-4be5-9a2e-ff15c61469d5</tstamps>
+    </comp>
+    <comp ref="Dc2">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88d3598b-5e3a-4bb5-9b11-66b86f00a76e</tstamps>
+    </comp>
+    <comp ref="Dc3">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c33822e8-9c15-4667-8efb-f351f9aab8b0</tstamps>
+    </comp>
+    <comp ref="Dc4">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11dbc12e-06cc-4804-8205-355db3a86cff</tstamps>
+    </comp>
+    <comp ref="Dc5">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eaf9e65c-4286-4f0e-b293-d12c7ae7ba28</tstamps>
+    </comp>
+    <comp ref="Dd1">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18ed686d-08f7-497c-b395-88d6fc6786b4</tstamps>
+    </comp>
+    <comp ref="Dd2">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93f2eb1f-b29d-4a1a-839e-a47ffa5f09da</tstamps>
+    </comp>
+    <comp ref="Dd3">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8d15c73-6e76-481c-9d2e-b0ef4e0f5730</tstamps>
+    </comp>
+    <comp ref="Dd4">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54b4e498-e5ae-420e-8ca7-dbb372df85e4</tstamps>
+    </comp>
+    <comp ref="Dd5">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0b88dc8-0b83-415d-8895-873399018636</tstamps>
+    </comp>
+    <comp ref="De1">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7eac194d-c5a7-489e-aaf7-4ecac67b6840</tstamps>
+    </comp>
+    <comp ref="De2">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>393df0cd-5b01-49a0-a623-be26b8bfe5ac</tstamps>
+    </comp>
+    <comp ref="De3">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56937ea0-4768-4237-a580-d26552d1bc84</tstamps>
+    </comp>
+    <comp ref="De4">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a104937-9307-4c6e-ae25-391e5fde5d61</tstamps>
+    </comp>
+    <comp ref="Df2">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46ef90c6-f3ca-4438-a698-b8718cd86c9e</tstamps>
+    </comp>
+    <comp ref="Df3">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2d19921-c836-44a2-a629-e566c5feb6e7</tstamps>
+    </comp>
+    <comp ref="Df4">
+      <value>1N4148</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</datasheet>
+      <libsource lib="Diode_AKL" part="1N4148" description="DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5216f62-60c9-48c9-9ddb-87c34ecb1853</tstamps>
+    </comp>
+    <comp ref="DZ1">
+      <value>3.6V</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://www.tme.eu/Document/f5f1109860e3add59a5a537cbe664d4a/BZX79-C10.113.pdf</datasheet>
+      <libsource lib="Diode_Zener_AKL" part="BZX79-C3V6" description="DO-35 Zener diode, 3.6V, 400mW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c8a3fad-3bc1-4ad7-9f8e-da8344133c67</tstamps>
+    </comp>
+    <comp ref="DZ2">
+      <value>3.6V</value>
+      <footprint>BlueJay footprints:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://www.tme.eu/Document/f5f1109860e3add59a5a537cbe664d4a/BZX79-C10.113.pdf</datasheet>
+      <libsource lib="Diode_Zener_AKL" part="BZX79-C3V6" description="DO-35 Zener diode, 3.6V, 400mW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d8258bc-38ff-48fb-b4c2-4ddc005f789a</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>100mA</value>
+      <footprint>BlueJay footprints:polyfuse_5.1mm</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Device_Polyfuse_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e355693c-7166-4c31-8c56-9e40769ee1cc</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SJ-43514</value>
+      <footprint>BlueJay footprints:CUI_SJ-43514</footprint>
+      <datasheet>1.04</datasheet>
+      <fields>
+        <field name="Field4">MANUFACTURER RECOMMENDATIONS</field>
+        <field name="Field5">CUI INC</field>
+        <field name="MANUFACTURER">CUI INC</field>
+        <field name="PART_REV">1.04</field>
+        <field name="STANDARD">MANUFACTURER RECOMMENDATIONS</field>
+      </fields>
+      <libsource lib="BlueJaySymbolLibrary" part="SJ-43514" description=""/>
+      <property name="Field4" value="MANUFACTURER RECOMMENDATIONS"/>
+      <property name="Field5" value="CUI INC"/>
+      <property name="MANUFACTURER" value="CUI INC"/>
+      <property name="PART_REV" value="1.04"/>
+      <property name="STANDARD" value="MANUFACTURER RECOMMENDATIONS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36a90cbb-ec70-4202-aacd-9cf629bac560</tstamps>
+    </comp>
+    <comp ref="PB1">
+      <value>RESET</value>
+      <footprint>BlueJay footprints:SW_PUSH_6mm</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31642483-9c10-4ba0-a4b2-91eb418caf17</tstamps>
+    </comp>
+    <comp ref="PB2">
+      <value>BOOT</value>
+      <footprint>BlueJay footprints:SW_PUSH_6mm</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d75ceb31-4c3c-41ad-8b42-7d4dbabce30c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1.5k</value>
+      <footprint>BlueJay footprints:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Device_R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f06b5ac-e27b-49ee-a53a-0007a355bb28</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>75R</value>
+      <footprint>BlueJay footprints:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Device_R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2536860d-2d16-4183-8af1-2e32ee1c1181</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>75R</value>
+      <footprint>BlueJay footprints:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Device_R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>738caf1c-0766-4d39-9d74-4ca8b3e7f761</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>BlueJay footprints:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Device_R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>477cd14b-a4d2-4fef-a971-a81f5683eae5</tstamps>
+    </comp>
+    <comp ref="SWa1">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8ba3aba-b327-4c38-851e-02054b6b4e1d</tstamps>
+    </comp>
+    <comp ref="SWa2">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>038d2e9a-63f1-4964-9477-615433bfc431</tstamps>
+    </comp>
+    <comp ref="SWa3">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2b291db-e070-4cae-8d71-44ec018468c0</tstamps>
+    </comp>
+    <comp ref="SWa4">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02196e31-d33e-4252-a368-fcc966c38f3f</tstamps>
+    </comp>
+    <comp ref="SWa5">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb3138e4-741f-4fa8-b229-0968a3b8978a</tstamps>
+    </comp>
+    <comp ref="SWb1">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7b15ec1-ab58-4df8-b046-c9979011dce8</tstamps>
+    </comp>
+    <comp ref="SWb2">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e291ee9-8875-4df4-8260-b37446bb5927</tstamps>
+    </comp>
+    <comp ref="SWb3">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45af9262-4842-470b-a598-84cecea29dee</tstamps>
+    </comp>
+    <comp ref="SWb4">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e402d94d-5fc0-44de-ad62-e2e24b973126</tstamps>
+    </comp>
+    <comp ref="SWb5">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7f3d1de-50b2-47e1-9291-612d6b5543b0</tstamps>
+    </comp>
+    <comp ref="SWc1">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52a126cd-0fbe-4109-90f3-a1c46e8d3c91</tstamps>
+    </comp>
+    <comp ref="SWc2">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2385494c-1454-4c0f-acd6-d903de739ad4</tstamps>
+    </comp>
+    <comp ref="SWc3">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f671d4f-22f5-4308-9bf7-201955a03a71</tstamps>
+    </comp>
+    <comp ref="SWc4">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>789c9e6e-544e-4b5b-ab97-83099d98fb6c</tstamps>
+    </comp>
+    <comp ref="SWc5">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e56a7c8c-fa28-4a7a-950f-017755870207</tstamps>
+    </comp>
+    <comp ref="SWd1">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd46253d-9fd3-494a-bba2-ced85d33c0ee</tstamps>
+    </comp>
+    <comp ref="SWd2">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30acf6c0-02aa-43ff-8d5f-c9aed62c2ddf</tstamps>
+    </comp>
+    <comp ref="SWd3">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29ac436a-b1d3-481d-9c8a-315e2f6eb8c4</tstamps>
+    </comp>
+    <comp ref="SWd4">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58fc8731-3b49-4d31-96f7-c3f1bb27b860</tstamps>
+    </comp>
+    <comp ref="SWd5">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d6e5036-5d9e-4040-9a4d-8fc9a26600ed</tstamps>
+    </comp>
+    <comp ref="SWe1">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9948fc54-dd3a-4efd-9f1d-a48cb6049fb6</tstamps>
+    </comp>
+    <comp ref="SWe2">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dca0d26-eae8-4fac-b125-b81ca18c5787</tstamps>
+    </comp>
+    <comp ref="SWe3">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>252d0d23-1a1f-4d28-9272-1c8be2c4000a</tstamps>
+    </comp>
+    <comp ref="SWe4">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47f9ed0b-a8cb-49ba-983a-4c0c32a056e4</tstamps>
+    </comp>
+    <comp ref="SWf2">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>198678f7-5f69-4474-8135-8126ef924de5</tstamps>
+    </comp>
+    <comp ref="SWf3">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>415e2ab4-6e9d-40c5-aee8-d918b91ac07a</tstamps>
+    </comp>
+    <comp ref="SWf4">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Switch_SW_Push" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>575f592f-f4bd-473c-ad02-06d9e5994872</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATmega328P-PU</value>
+      <footprint>Package_DIP_AKL:DIP-28_W7.62mm_Socket</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="ATmega328P-PU" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0419025-a2cc-429c-b657-aae4c613bf31</tstamps>
+    </comp>
+    <comp ref="USB1">
+      <value>USB_B_Mini</value>
+      <footprint>BlueJay footprints:USB_Mini_B_Female_548190519</footprint>
+      <datasheet>https://www.molex.com/pdm_docs/sd/548190519_sd.pdf</datasheet>
+      <fields>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="DK_Datasheet_Link">https://www.molex.com/pdm_docs/sd/548190519_sd.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/molex/0548190519/WM17115-ND/773802</field>
+        <field name="Description">CONN RCPT USB2.0 MINI B 5P R/A</field>
+        <field name="Digi-Key_PN">WM17115-ND</field>
+        <field name="Family">USB, DVI, HDMI Connectors</field>
+        <field name="MPN">0548190519</field>
+        <field name="Manufacturer">Molex</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="BlueJaySymbolLibrary" part="0548190519" description="CONN RCPT USB2.0 MINI B 5P R/A"/>
+      <property name="Digi-Key_PN" value="WM17115-ND"/>
+      <property name="MPN" value="0548190519"/>
+      <property name="Category" value="Connectors, Interconnects"/>
+      <property name="Family" value="USB, DVI, HDMI Connectors"/>
+      <property name="DK_Datasheet_Link" value="https://www.molex.com/pdm_docs/sd/548190519_sd.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/molex/0548190519/WM17115-ND/773802"/>
+      <property name="Description" value="CONN RCPT USB2.0 MINI B 5P R/A"/>
+      <property name="Manufacturer" value="Molex"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65732213-2735-40de-8dfe-4a9a7e1cbc16</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>16MHz</value>
+      <footprint>BlueJay footprints:Crystal_HC49-4H_Vertical</footprint>
+      <libsource lib="BlueJaySymbolLibrary" part="Device_Crystal_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="bluejay_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4afee0d-8e42-4a5d-aac7-862e4657a136</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BlueJaySymbolLibrary" part="0548190519">
+      <description>CONN RCPT USB2.0 MINI B 5P R/A</description>
+      <docs>https://www.molex.com/pdm_docs/sd/548190519_sd.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">0548190519</field>
+        <field name="Footprint">BlueJay footprints:USB_Mini_B_Female_548190519</field>
+        <field name="Datasheet">https://www.molex.com/pdm_docs/sd/548190519_sd.pdf</field>
+        <field name="Digi-Key_PN">WM17115-ND</field>
+        <field name="MPN">0548190519</field>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="Family">USB, DVI, HDMI Connectors</field>
+        <field name="DK_Datasheet_Link">https://www.molex.com/pdm_docs/sd/548190519_sd.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/molex/0548190519/WM17115-ND/773802</field>
+        <field name="Description">CONN RCPT USB2.0 MINI B 5P R/A</field>
+        <field name="Manufacturer">Molex</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="ID" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="D-" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="SH" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BlueJaySymbolLibrary" part="ATmega328P-PU">
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega328P-PU</field>
+        <field name="Footprint">Package_DIP:DIP-28_W7.62mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RESET}/PC6" type="bidirectional"/>
+        <pin num="2" name="PD0" type="bidirectional"/>
+        <pin num="3" name="PD1" type="bidirectional"/>
+        <pin num="4" name="PD2" type="bidirectional"/>
+        <pin num="5" name="PD3" type="bidirectional"/>
+        <pin num="6" name="PD4" type="bidirectional"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="XTAL1/PB6" type="bidirectional"/>
+        <pin num="10" name="XTAL2/PB7" type="bidirectional"/>
+        <pin num="11" name="PD5" type="bidirectional"/>
+        <pin num="12" name="PD6" type="bidirectional"/>
+        <pin num="13" name="PD7" type="bidirectional"/>
+        <pin num="14" name="PB0" type="bidirectional"/>
+        <pin num="15" name="PB1" type="bidirectional"/>
+        <pin num="16" name="PB2" type="bidirectional"/>
+        <pin num="17" name="PB3" type="bidirectional"/>
+        <pin num="18" name="PB4" type="bidirectional"/>
+        <pin num="19" name="PB5" type="bidirectional"/>
+        <pin num="20" name="AVCC" type="power_in"/>
+        <pin num="21" name="AREF" type="passive"/>
+        <pin num="22" name="GND" type="passive"/>
+        <pin num="23" name="PC0" type="bidirectional"/>
+        <pin num="24" name="PC1" type="bidirectional"/>
+        <pin num="25" name="PC2" type="bidirectional"/>
+        <pin num="26" name="PC3" type="bidirectional"/>
+        <pin num="27" name="PC4" type="bidirectional"/>
+        <pin num="28" name="PC5" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="BlueJaySymbolLibrary" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BlueJaySymbolLibrary" part="Device_CP1_Small">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Device_CP1_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BlueJaySymbolLibrary" part="Device_Crystal_Small">
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Device_Crystal_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BlueJaySymbolLibrary" part="Device_Polyfuse_Small">
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Device_Polyfuse_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BlueJaySymbolLibrary" part="Device_R_Small">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Device_R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BlueJaySymbolLibrary" part="SJ-43514">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SJ-43514</field>
+        <field name="Footprint">CUI_SJ-43514</field>
+        <field name="MANUFACTURER">CUI INC</field>
+        <field name="PART_REV">1.04</field>
+        <field name="STANDARD">MANUFACTURER RECOMMENDATIONS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BlueJaySymbolLibrary" part="Switch_SW_Push">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Switch_SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode_AKL" part="1N4148">
+      <description>DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library</description>
+      <docs>https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode_Zener_AKL" part="BZX79-C3V6">
+      <description>DO-35 Zener diode, 3.6V, 400mW, Alternate KiCAD Library</description>
+      <docs>https://www.tme.eu/Document/f5f1109860e3add59a5a537cbe664d4a/BZX79-C10.113.pdf</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">DZ</field>
+        <field name="Value">BZX79-C3V6</field>
+        <field name="Footprint">Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal_Zener</field>
+        <field name="Datasheet">https://www.tme.eu/Document/f5f1109860e3add59a5a537cbe664d4a/BZX79-C10.113.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BlueJaySymbolLibrary">
+      <uri>C:\Users\Jonathan\Documents\ergo kb\BlueJay\github\BlueJay\pcb_left/../lib_sch/BlueJaySymbolLibrary.kicad_sym</uri>
+    </library>
+    <library logical="Diode_AKL">
+      <uri>C:\Users\Jonathan\Documents\KiCad\6.0\3rdparty/symbols/com_github_dawidcislo_alternate-kicad-library/Diode_AKL.kicad_sym</uri>
+    </library>
+    <library logical="Diode_Zener_AKL">
+      <uri>C:\Users\Jonathan\Documents\KiCad\6.0\3rdparty/symbols/com_github_dawidcislo_alternate-kicad-library/Diode_Zener_AKL.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/USB_D+">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="/USB_D-">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/colA">
+      <node ref="Da1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/colB">
+      <node ref="Db1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/colC">
+      <node ref="Dc1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/colD">
+      <node ref="Dd1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="PB2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/colE">
+      <node ref="De1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="De2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="De3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="De4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/colF">
+      <node ref="Df2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Df3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Df4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/i2c_SCL">
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/i2c_SDA">
+      <node ref="J1" pin="4" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/row1">
+      <node ref="SWa1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWb1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWc1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWd1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWe1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/row2">
+      <node ref="SWa2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWb2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWc2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWd2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWe2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWf2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/row3">
+      <node ref="SWa3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWb3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWc3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWd3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWe3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWf3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/row4">
+      <node ref="SWa4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWb4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWc4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWd4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWe4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWf4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/row5">
+      <node ref="SWa5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWb5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWc5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SWd5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="DZ1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="DZ2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="PB1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PB2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="USB1" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="USB1" pin="SH" pinfunction="SHIELD" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="XTAL1/PB6" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="XTAL2/PB7" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(DZ1-Pad1)">
+      <node ref="DZ1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="4" pinfunction="D-" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(DZ2-Pad1)">
+      <node ref="DZ2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="3" pinfunction="D+" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Da1-Pad2)">
+      <node ref="Da1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Da2-Pad2)">
+      <node ref="Da2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(Da3-Pad2)">
+      <node ref="Da3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Da4-Pad2)">
+      <node ref="Da4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(Da5-Pad2)">
+      <node ref="Da5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(Db1-Pad2)">
+      <node ref="Db1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(Db2-Pad2)">
+      <node ref="Db2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(Db3-Pad2)">
+      <node ref="Db3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(Db4-Pad2)">
+      <node ref="Db4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(Db5-Pad2)">
+      <node ref="Db5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Dc1-Pad2)">
+      <node ref="Dc1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(Dc2-Pad2)">
+      <node ref="Dc2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(Dc3-Pad2)">
+      <node ref="Dc3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(Dc4-Pad2)">
+      <node ref="Dc4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(Dc5-Pad2)">
+      <node ref="Dc5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(Dd1-Pad2)">
+      <node ref="Dd1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(Dd2-Pad2)">
+      <node ref="Dd2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(Dd3-Pad2)">
+      <node ref="Dd3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(Dd4-Pad2)">
+      <node ref="Dd4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(Dd5-Pad2)">
+      <node ref="Dd5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(De1-Pad2)">
+      <node ref="De1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(De2-Pad2)">
+      <node ref="De2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(De3-Pad2)">
+      <node ref="De3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(De4-Pad2)">
+      <node ref="De4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(Df2-Pad2)">
+      <node ref="Df2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWf2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(Df3-Pad2)">
+      <node ref="Df3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWf3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(Df4-Pad2)">
+      <node ref="Df4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWf4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="5" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(PB1-Pad1)">
+      <node ref="PB1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="~{RESET}/PC6" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="VCC">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="51" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="PB3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="AREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U1-Pad23)">
+      <node ref="U1" pin="23" pinfunction="PC0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U1-Pad24)">
+      <node ref="U1" pin="24" pinfunction="PC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(USB1-Pad2)">
+      <node ref="USB1" pin="2" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
