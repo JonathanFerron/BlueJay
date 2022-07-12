@@ -26,13 +26,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="in"
-     inkscape:zoom="0.90109931"
-     inkscape:cx="778.49355"
-     inkscape:cy="324.60351"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="1.8021986"
+     inkscape:cx="543.5028"
+     inkscape:cy="423.6492"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <polygon
@@ -55,9 +55,9 @@
      style="fill:none;stroke:#000000;stroke-width:0.05mm"
      id="polygon10"
      transform="translate(-153.85837,30.830398)" />
-  <polygon
-     points="262.648,26.905 243.599,26.905 243.599,103.107 262.651,103.107 262.651,100.726 281.7,100.726 281.7,93.582 300.748,93.582 300.748,100.726 319.799,100.726 319.799,107.869 357.901,107.869 357.901,50.717 338.851,50.717 338.851,31.667 319.801,31.667 319.801,24.523 300.751,24.523 300.751,17.38 281.698,17.38 281.698,24.523 262.648,24.523 "
-     style="fill:none;stroke:#000000;stroke-width:0.05mm"
+  <path
      id="polygon12"
-     transform="translate(-153.85837,30.830398)" />
+     style="fill:none;stroke:#000000;stroke-width:0.05mm"
+     transform="translate(-153.85837,30.830398)"
+     d="m 262.648,26.905 h -19.049 v 76.202 h 19.052 v -2.381 H 281.7 v -7.144 h 19.048 v 7.144 h 19.051 v 7.143 h 38.102 V 50.717 h -19.05 v -19.05 h -19.05 v -7.144 h -19.05 V 17.38 h -19.053 v 7.143 h -19.05 z" />
 </svg>
