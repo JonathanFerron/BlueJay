@@ -393,7 +393,13 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "Net-(Da1-Pad2)": "rgb(255, 0, 255)",
+      "Net-(Da2-Pad2)": "rgb(255, 0, 255)",
+      "Net-(Da3-Pad2)": "rgb(255, 0, 255)",
+      "Net-(Da4-Pad2)": "rgb(255, 0, 255)",
+      "Net-(Da5-Pad2)": "rgb(255, 0, 255)"
+    }
   },
   "pcbnew": {
     "last_paths": {
