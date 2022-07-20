@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.7,
-          "height": 1.4,
-          "width": 1.4
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "bluejay_left.kicad_pro",
+    "filename": "bluejay_right.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -354,9 +354,9 @@
       {
         "bus_width": 12.0,
         "clearance": 0.2,
-        "diff_pair_gap": 0.2,
+        "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.25,
+        "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -379,7 +379,6 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "Net-(F1-Pad2)",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -393,24 +392,18 @@
     "meta": {
       "version": 2
     },
-    "net_colors": {
-      "Net-(Da1-Pad2)": "rgb(255, 0, 255)",
-      "Net-(Da2-Pad2)": "rgb(255, 0, 255)",
-      "Net-(Da3-Pad2)": "rgb(255, 0, 255)",
-      "Net-(Da4-Pad2)": "rgb(255, 0, 255)",
-      "Net-(Da5-Pad2)": "rgb(255, 0, 255)"
-    }
+    "net_colors": null
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../../../../../../../../Program Files/KiCad/6.0/",
-      "specctra_dsn": "bluejay_left.dsn",
+      "netlist": "",
+      "specctra_dsn": "bluejay_right.dsn",
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "C:/Users/Jonathan/Documents/ergo kb/BlueJay/github/BlueJay/misc/BlueJay.kicad_wks"
+    "page_layout_descr_file": ""
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -443,7 +436,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "C:\\Users\\berno\\Documents\\Jonathan\\ergo kb\\BlueJay\\GitHub\\BlueJay\\misc\\BlueJay.kicad_wks",
+    "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
