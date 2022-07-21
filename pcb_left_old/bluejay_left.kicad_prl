@@ -1,16 +1,16 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 47,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "pads": 0.3799999952316284,
-      "tracks": 0.4300000071525574,
-      "vias": 0.41999998688697815,
-      "zones": 0.30000001192092896
+      "pads": 0.49000000953674316,
+      "tracks": 0.3799999952316284,
+      "vias": 0.49000000953674316,
+      "zones": 0.25999999046325684
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -18,7 +18,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -33,11 +33,14 @@
       3,
       4,
       5,
+      8,
       9,
       10,
-      11,
+      12,
       13,
+      14,
       15,
+      16,
       17,
       18,
       19,
@@ -55,11 +58,11 @@
       34,
       35
     ],
-    "visible_layers": "0001000_80000001",
+    "visible_layers": "0009020_80000001",
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "bluejay_right.kicad_prl",
+    "filename": "bluejay_left.kicad_prl",
     "version": 3
   },
   "project": {
