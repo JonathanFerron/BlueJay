@@ -378,10 +378,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Power",
-        "nets": [
-          "Net-(F1-Pad2)",
-          "VCC"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
@@ -393,13 +390,7 @@
     "meta": {
       "version": 2
     },
-    "net_colors": {
-      "Net-(Da1-Pad2)": "rgb(255, 0, 255)",
-      "Net-(Da2-Pad2)": "rgb(255, 0, 255)",
-      "Net-(Da3-Pad2)": "rgb(255, 0, 255)",
-      "Net-(Da4-Pad2)": "rgb(255, 0, 255)",
-      "Net-(Da5-Pad2)": "rgb(255, 0, 255)"
-    }
+    "net_colors": null
   },
   "pcbnew": {
     "last_paths": {

@@ -163,6 +163,14 @@
     )
   )
 
+  (junction (at 208.28 165.1) (diameter 0) (color 0 0 0 0)
+    (uuid f7114217-ae45-413e-9c0b-2e52ce56bd7a)
+  )
+
+  (wire (pts (xy 208.28 165.1) (xy 226.06 165.1))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 00fe7868-0974-4bee-b1ba-9bc6c241724e)
+  )
 
   (symbol (lib_id "BlueJaySymbolLibrary:Switch_SW_Push") (at 218.44 119.38 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
@@ -684,8 +692,8 @@
     (pin "2" (uuid 651c30d8-87b4-4d70-b68f-ccb8f2963796))
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 226.06 162.56 0) (unit 1)
-    (in_bom no) (on_board yes) (fields_autoplaced)
+  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 226.06 162.56 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c9aec2e8-4e37-4baa-9790-b0363dbc3f18)
     (property "Reference" "H4" (id 0) (at 228.6 161.2899 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -699,6 +707,7 @@
     (property "Datasheet" "~" (id 3) (at 226.06 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid 32dfd02e-5834-4bb6-b171-eea773c36037))
   )
 
   (symbol (lib_id "BlueJaySymbolLibrary:Switch_SW_Push") (at 218.44 133.35 90) (unit 1)
