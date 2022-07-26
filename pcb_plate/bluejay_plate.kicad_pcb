@@ -41,9 +41,8 @@
       (dielectric_constraints no)
     )
     (pad_to_mask_clearance 0)
-    (solder_mask_min_width 0.12)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x00010f0_ffffffff)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -71,9 +70,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "../gerber/")
     )
   )
 
@@ -552,7 +551,7 @@
     (property "exclude_from_bom" "")
     (path "/a73aae4f-b04b-4d16-8b11-ca3d57da8772")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H8" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "H8" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6f477230-d9c1-48ab-8973-c844087d9374)
     )
@@ -645,7 +644,7 @@
     (property "exclude_from_bom" "")
     (path "/6dcbd964-e53a-42c2-bb2f-1604534332d7")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H5" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "H5" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1c49c70f-1e94-4b4a-aa85-82c7f86ae3cd)
     )
@@ -771,7 +770,7 @@
     (property "exclude_from_bom" "")
     (path "/8ff55002-cb98-4e23-b57e-209cc7ec712a")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H7" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "H7" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5f1493bb-464c-40cb-88f9-e7f58d8457d5)
     )
@@ -797,7 +796,7 @@
     (property "Sheetname" "")
     (path "/552b5d1f-a593-40c3-a973-202071f3c188")
     (attr exclude_from_pos_files)
-    (fp_text reference "H3" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "H3" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 86704588-b036-45e9-9ea3-ad9b45324694)
     )
@@ -891,7 +890,7 @@
     (property "exclude_from_bom" "")
     (path "/6133af06-e5a9-4dea-9d88-3fa37672e076")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H6" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "H6" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 80ad6912-52c5-4a99-bb86-3fab25912007)
     )
@@ -917,7 +916,7 @@
     (property "Sheetname" "")
     (path "/c9aec2e8-4e37-4baa-9790-b0363dbc3f18")
     (attr exclude_from_pos_files)
-    (fp_text reference "H4" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "H4" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 20395356-a291-4284-9a9d-3aee5df91796)
     )
@@ -1357,7 +1356,10 @@
   (gr_arc (start -66.685111 -39.369254) (mid -66.37 -40.15) (end -65.595111 -40.479254) (layer "Edge.Cuts") (width 0.1) (tstamp f54229c8-ea3c-4417-8b49-1e96cdcb1ab8))
   (gr_arc (start 8.43845 -47.625422) (mid 9.218647 -47.301388) (end 9.52845 -46.515422) (layer "Edge.Cuts") (width 0.1) (tstamp f7540f27-7079-40e0-9d71-565bfc8571cf))
   (gr_text "JLCJLCJLCJLC" (at -19 -35.74) (layer "F.SilkS") (tstamp 02d6fabb-119f-409d-aad7-906d21bebab5)
-    (effects (font (size 1 1) (thickness 0.2)))
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "BlueJay Keyboard" (at -19.32 32.25) (layer "F.SilkS") (tstamp ad24cfdb-b091-43ce-974f-95e61c1157d9)
+    (effects (font (size 1.5 1.5) (thickness 0.25)))
   )
 
   (zone (net 1) (net_name "GND") (layers F&B.Cu) (tstamp 5d952ae2-8bba-482e-90da-4385fa31f314) (hatch edge 0.508)
