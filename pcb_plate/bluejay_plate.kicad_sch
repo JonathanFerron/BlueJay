@@ -6,6 +6,7 @@
 
   (title_block
     (title "BlueJay Plate")
+    (rev "1.0")
   )
 
   (lib_symbols
@@ -121,42 +122,62 @@
         )
       )
     )
-    (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:Earth" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "GND" (id 1) (at 0 -3.81 0)
-        (effects (font (size 1.27 1.27)))
+      (property "Value" "Earth" (id 1) (at 0 -3.81 0)
+        (effects (font (size 1.27 1.27)) hide)
       )
       (property "Footprint" "" (id 2) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "" (id 3) (at 0 0 0)
+      (property "Datasheet" "~" (id 3) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
+      (property "ki_keywords" "power-flag ground gnd" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (id 5) (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"Earth\"" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "GND_0_1"
+      (symbol "Earth_0_1"
         (polyline
           (pts
+            (xy -0.635 -1.905)
+            (xy 0.635 -1.905)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -0.127 -2.54)
+            (xy 0.127 -2.54)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -1.27)
             (xy 0 0)
-            (xy 0 -1.27)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
             (xy 1.27 -1.27)
-            (xy 0 -2.54)
             (xy -1.27 -1.27)
-            (xy 0 -1.27)
           )
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "GND_1_1"
+      (symbol "Earth_1_1"
         (pin power_in line (at 0 0 270) (length 0) hide
-          (name "GND" (effects (font (size 1.27 1.27))))
+          (name "Earth" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -657,17 +678,19 @@
     (pin "2" (uuid 812575a7-3657-41a1-8e71-93e344033b10))
   )
 
-  (symbol (lib_id "power:GND") (at 208.28 165.1 0) (unit 1)
+  (symbol (lib_id "power:Earth") (at 208.28 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aa799aa4-0b77-4e69-bd3a-b95b04823f1a)
     (property "Reference" "#PWR0115" (id 0) (at 208.28 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (id 1) (at 208.28 170.18 0))
+    (property "Value" "Earth" (id 1) (at 208.28 168.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (property "Footprint" "" (id 2) (at 208.28 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 208.28 165.1 0)
+    (property "Datasheet" "~" (id 3) (at 208.28 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6e0f13e8-b97d-4b60-89db-37aa9688d0ef))
@@ -811,7 +834,7 @@
 
   (symbol_instances
     (path "/aa799aa4-0b77-4e69-bd3a-b95b04823f1a"
-      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0115") (unit 1) (value "Earth") (footprint "")
     )
     (path "/552b5d1f-a593-40c3-a973-202071f3c188"
       (reference "H3") (unit 1) (value "M2") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")

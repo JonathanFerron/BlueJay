@@ -77,7 +77,7 @@
   )
 
   (net 0 "")
-  (net 1 "GND")
+  (net 1 "Earth")
 
   (footprint "BlueJay footprints:SW_Hole_TH" (layer "F.Cu")
     (tedit 5FE1A980) (tstamp 03e43301-1b5c-4a7b-989f-9b2ef6be9e0e)
@@ -811,7 +811,7 @@
     (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 4eb3579a-a24a-4159-a3bc-91beabe5c660))
     (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 9e72a009-9fae-4bd8-9758-5bd2a6034400))
     (pad "1" thru_hole circle (at 0 0) (size 4.4 4.4) (drill 2.2) (layers *.Cu *.Mask)
-      (net 1 "GND") (pinfunction "1") (pintype "input") (tstamp 29cb7a92-7100-48d0-94d6-b8f85f07de2a))
+      (net 1 "Earth") (pinfunction "1") (pintype "input") (tstamp 29cb7a92-7100-48d0-94d6-b8f85f07de2a))
   )
 
   (footprint "BlueJay footprints:SW_Hole_TH" (layer "F.Cu")
@@ -931,7 +931,7 @@
     (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 2490a332-9c2e-4061-8f04-be4827014ff5))
     (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 36201343-ecb1-4e4b-91b2-428d162ddd00))
     (pad "1" thru_hole circle (at 0 0) (size 4.4 4.4) (drill 2.2) (layers *.Cu *.Mask)
-      (net 1 "GND") (pinfunction "1") (pintype "input") (tstamp d5496df5-39e5-4fb3-8a41-4d192f0653e5))
+      (net 1 "Earth") (pinfunction "1") (pintype "input") (tstamp d5496df5-39e5-4fb3-8a41-4d192f0653e5))
   )
 
   (footprint "BlueJay footprints:SW_Hole_TH" (layer "F.Cu")
@@ -1362,7 +1362,7 @@
     (effects (font (size 1.5 1.5) (thickness 0.25)))
   )
 
-  (zone (net 1) (net_name "GND") (layers F&B.Cu) (tstamp 5d952ae2-8bba-482e-90da-4385fa31f314) (hatch edge 0.508)
+  (zone (net 1) (net_name "Earth") (layers F&B.Cu) (tstamp 5d952ae2-8bba-482e-90da-4385fa31f314) (hatch edge 0.508)
     (connect_pads yes (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
     (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508))
