@@ -1,3 +1,5 @@
 # BlueJay54 To Dos
 
-- [ ] Produce gerber files and test validity via PCB manufacturer website
+- [ ] Update Gerber Files
+- [ ] Export files for review (schematics, pcbs, 3d view)
+- [ ] Submit for review
