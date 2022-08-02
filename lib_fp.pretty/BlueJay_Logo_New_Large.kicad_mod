@@ -1,0 +1,526 @@
+(footprint "BlueJay_Logo_New_Large" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4bec8142-0e35-46d6-b713-de2c052e4128)
+  )
+  (fp_text value "BlueJay_Logo_New_Large" (at 0 1 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7d284177-a858-44b7-97cb-7444e95c9ec2)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ef7503db-16d7-4a68-acf6-1c176217d094)
+  )
+  (fp_line (start 17.959107 1.814148) (end 17.959107 1.814148) (layer "F.SilkS") (width 0.311607) (tstamp 00053a36-d6f6-4495-b0e9-0e9a46b2b45f))
+  (fp_line (start -9.676885 -1.376806) (end -8.936121 -0.29416) (layer "F.SilkS") (width 0.311607) (tstamp 0056d0dd-b6c8-4d39-bb1d-619ef4783b4b))
+  (fp_line (start 3.54292 -6.960994) (end 0.237997 -13.627822) (layer "F.SilkS") (width 0.311607) (tstamp 033df54e-bc53-4903-b91a-bed417ce06f4))
+  (fp_line (start -3.18091 -19.838797) (end -4.833376 -24.397313) (layer "F.SilkS") (width 0.311607) (tstamp 0416c6d4-31cf-47a2-b8b0-b79994d74ac9))
+  (fp_line (start -9.790763 -25.309015) (end -11.215297 -28.386012) (layer "F.SilkS") (width 0.311607) (tstamp 04931c99-c163-49f8-b1cd-aade436cdcac))
+  (fp_line (start -25.004891 0.845469) (end -26.600368 1.58623) (layer "F.SilkS") (width 0.311607) (tstamp 052c6e57-4a09-4e40-87c2-6a9bc5a30375))
+  (fp_line (start -7.682531 0.446599) (end -7.682531 0.446599) (layer "F.SilkS") (width 0.311607) (tstamp 06246ea1-2726-41ca-9d38-eb5be3965a01))
+  (fp_line (start 11.691265 -4.567773) (end 11.691265 -4.567773) (layer "F.SilkS") (width 0.311607) (tstamp 0708e873-06a6-4a2f-94dd-631c0ae5e3f2))
+  (fp_line (start -13.779491 -11.177618) (end -12.753826 -10.09497) (layer "F.SilkS") (width 0.311607) (tstamp 08429901-5442-4df4-abbf-7a6c6d7f6df7))
+  (fp_line (start -3.351854 -24.511275) (end -3.351854 -21.662203) (layer "F.SilkS") (width 0.311607) (tstamp 09b61e28-9fbc-4dec-ad7f-78e1c3c0b4a4))
+  (fp_line (start -13.665584 1.472264) (end -19.933547 0.446599) (layer "F.SilkS") (width 0.311607) (tstamp 0bc4af11-bf73-4158-a36e-610c1e243ebd))
+  (fp_line (start 11.178433 -6.049291) (end 11.178433 -6.049291) (layer "F.SilkS") (width 0.311607) (tstamp 0d254cbb-1ba1-4dad-bcf8-0977b255910a))
+  (fp_line (start -12.753854 -7.131935) (end -10.588556 -5.707399) (layer "F.SilkS") (width 0.311607) (tstamp 0d617ece-a99b-40cf-a979-71e074fc3079))
+  (fp_line (start -0.901746 10.361367) (end -0.901746 10.361367) (layer "F.SilkS") (width 0.311607) (tstamp 0eb6d71d-eda3-4a1a-85ea-cb716ebcaaf3))
+  (fp_line (start 0.636866 -16.7618) (end -0.160879 -14.995376) (layer "F.SilkS") (width 0.311607) (tstamp 0f56a046-379b-47c1-ad55-aa73a473a71b))
+  (fp_line (start -26.8283 8.139103) (end -26.8283 8.139103) (layer "F.SilkS") (width 0.311607) (tstamp 105e3aba-3981-4dd1-8bd9-de7338dd0aba))
+  (fp_line (start -13.950404 -20.00974) (end -13.950404 -20.00974) (layer "F.SilkS") (width 0.311607) (tstamp 10c04db3-9cf4-4a1f-b236-7ab72f46c875))
+  (fp_line (start -10.588556 -5.707399) (end -10.588556 -5.707399) (layer "F.SilkS") (width 0.311607) (tstamp 124553c5-8e99-4f0e-8ce8-5c2104de51a6))
+  (fp_line (start -10.930416 -8.841379) (end -10.930416 -8.841379) (layer "F.SilkS") (width 0.311607) (tstamp 1248b172-9cf2-4aed-b142-d9ca9f94247d))
+  (fp_line (start 5.936028 8.139092) (end 11.235302 5.29002) (layer "F.SilkS") (width 0.311607) (tstamp 12c76d6d-0e15-4bbd-a4d7-b7ed5f0b4c9b))
+  (fp_line (start 19.782521 6.372666) (end 22.004788 7.569275) (layer "F.SilkS") (width 0.311607) (tstamp 1319925c-8e99-40fc-aa08-bd4f1958e29d))
+  (fp_line (start -12.297971 -8.727417) (end -12.810804 -7.986658) (layer "F.SilkS") (width 0.311607) (tstamp 13a37ddf-1c05-46a2-87fe-1867d82425d0))
+  (fp_line (start -10.930416 -8.841379) (end -12.297971 -8.727417) (layer "F.SilkS") (width 0.311607) (tstamp 1518cd7c-c30d-4c49-ba3e-1d4a28697a05))
+  (fp_line (start -24.833946 10.304398) (end -24.833946 10.304398) (layer "F.SilkS") (width 0.311607) (tstamp 15190e4d-13e1-4c6f-affb-b868f79b7991))
+  (fp_line (start 32.033528 2.725853) (end 32.033528 2.725853) (layer "F.SilkS") (width 0.311607) (tstamp 187e21e3-8a96-401c-80be-fb503e7ae9ea))
+  (fp_line (start 17.788285 -3.656068) (end 17.788285 -3.656068) (layer "F.SilkS") (width 0.311607) (tstamp 19803130-7138-4207-87e7-5db7fe7d425f))
+  (fp_line (start -12.810804 -7.986658) (end -12.753854 -7.131935) (layer "F.SilkS") (width 0.311607) (tstamp 1b8cd073-26dd-42d1-b6b7-1a6087bdbc99))
+  (fp_line (start 17.788285 -3.656068) (end 15.50903 -5.194568) (layer "F.SilkS") (width 0.311607) (tstamp 1cd39d20-eafe-488a-823b-65424a0c5678))
+  (fp_line (start -7.796409 -22.004092) (end -7.796409 -22.004092) (layer "F.SilkS") (width 0.311607) (tstamp 1e0e28d9-d5af-433c-b008-1eda3a05e672))
+  (fp_line (start -14.577197 -14.197633) (end -14.577197 -14.197633) (layer "F.SilkS") (width 0.311607) (tstamp 1e800149-4150-4ced-95ab-e6b80d9a9007))
+  (fp_line (start -9.90481 10.133442) (end -6.998756 7.968148) (layer "F.SilkS") (width 0.311607) (tstamp 1eceb7f4-05dd-42f3-9c02-16fb4631531d))
+  (fp_line (start 29.697285 6.71455) (end 29.697285 6.71455) (layer "F.SilkS") (width 0.311607) (tstamp 2078129b-02a9-4808-916c-e4c0f8458639))
+  (fp_line (start 11.007496 -5.308534) (end 11.691265 -4.567773) (layer "F.SilkS") (width 0.311607) (tstamp 21336ad8-ddb7-4dd2-8b6f-2879155ee9c1))
+  (fp_line (start -14.748139 -21.662202) (end -14.748139 -21.662202) (layer "F.SilkS") (width 0.311607) (tstamp 2179a948-69bd-4e71-b503-504c20475d9f))
+  (fp_line (start -23.238468 0.275654) (end -23.238468 0.275654) (layer "F.SilkS") (width 0.311607) (tstamp 23ee111a-04fc-4254-b399-be06da7aa1ec))
+  (fp_line (start -3.52289 9.962498) (end -3.52289 9.962498) (layer "F.SilkS") (width 0.311607) (tstamp 2677567b-ef0a-448d-bf1c-70ee1f03ebc6))
+  (fp_line (start -20.275436 12.184784) (end -20.44638 13.552338) (layer "F.SilkS") (width 0.311607) (tstamp 26b9bc6e-31bc-462d-847a-cb6cfb622f6e))
+  (fp_line (start -8.70811 -27.417328) (end -8.70811 -27.417328) (layer "F.SilkS") (width 0.311607) (tstamp 26f810fa-e72c-42f2-9c40-299f03a92794))
+  (fp_line (start 0.237997 -13.627822) (end 0.636866 -16.7618) (layer "F.SilkS") (width 0.311607) (tstamp 285b4eeb-0beb-4314-bba5-f943431fc338))
+  (fp_line (start 25.138775 7.85418) (end 26.164441 7.512291) (layer "F.SilkS") (width 0.311607) (tstamp 2a16ea66-932f-4856-b88c-67e0a95943c7))
+  (fp_line (start -26.657356 6.942494) (end -26.657356 6.942494) (layer "F.SilkS") (width 0.311607) (tstamp 2ad6edb7-a075-4dc7-8d39-940719504fda))
+  (fp_line (start 27.190106 2.156037) (end 27.190106 2.156037) (layer "F.SilkS") (width 0.311607) (tstamp 2c10e8f2-4cfb-42ea-b78d-8aef72c3d2b0))
+  (fp_line (start 26.164441 7.512291) (end 26.164441 7.512291) (layer "F.SilkS") (width 0.311607) (tstamp 2c1df08d-e577-4e84-8c89-d53521b07988))
+  (fp_line (start -5.916019 -27.303366) (end -5.916019 -27.303366) (layer "F.SilkS") (width 0.311607) (tstamp 2d82b869-de74-4bdc-ad72-50862d6233cf))
+  (fp_line (start -4.833376 -24.397313) (end -4.833376 -29.012809) (layer "F.SilkS") (width 0.311607) (tstamp 2e7d8bf4-1b40-408e-96c5-ce5dd95f67ee))
+  (fp_line (start 26.278397 1.301314) (end 23.258385 2.383961) (layer "F.SilkS") (width 0.311607) (tstamp 2ed9fc27-4f06-4fbb-b686-6f6eb86942be))
+  (fp_line (start 25.138775 7.85418) (end 25.138775 7.85418) (layer "F.SilkS") (width 0.311607) (tstamp 3041f777-7f97-4a01-bda2-75770b28aa64))
+  (fp_line (start -25.004891 0.845469) (end -25.004891 0.845469) (layer "F.SilkS") (width 0.311607) (tstamp 30480296-4367-4f75-afd0-1e990e7c8943))
+  (fp_line (start -1.357483 -17.616522) (end -1.357483 -17.616522) (layer "F.SilkS") (width 0.311607) (tstamp 315ddc5c-ccab-41d5-8fdd-3bf6c22e5ce9))
+  (fp_line (start 13.742482 4.49228) (end 16.591557 4.891148) (layer "F.SilkS") (width 0.311607) (tstamp 316bf971-e7d3-4c37-b11e-e6e1828d8fb2))
+  (fp_line (start 11.235302 5.29002) (end 13.742482 4.49228) (layer "F.SilkS") (width 0.311607) (tstamp 3355482a-6daf-49f0-920b-4de86e9cc449))
+  (fp_line (start -26.8283 4.093415) (end -26.8283 4.093415) (layer "F.SilkS") (width 0.311607) (tstamp 3d714583-f418-4caf-b967-ab89cf848eee))
+  (fp_line (start 22.118752 1.415278) (end 22.118752 1.415278) (layer "F.SilkS") (width 0.311607) (tstamp 3d8adfe7-5006-4e2b-881c-79b62668b6de))
+  (fp_line (start -6.884798 1.814152) (end -6.884798 1.814152) (layer "F.SilkS") (width 0.311607) (tstamp 3eaf9efa-beaf-404f-aba4-ac37d13032f2))
+  (fp_line (start -12.753826 -10.09497) (end -12.753826 -10.09497) (layer "F.SilkS") (width 0.311607) (tstamp 3f0e68c0-87bb-4de2-8ccb-07fb7ec2f895))
+  (fp_line (start 7.47464 -2.915311) (end 3.54292 -6.960994) (layer "F.SilkS") (width 0.311607) (tstamp 3fc84005-70bd-4661-95d5-5b1094e03ada))
+  (fp_line (start -8.423208 -24.910146) (end -8.423208 -24.910146) (layer "F.SilkS") (width 0.311607) (tstamp 40b75d4b-65c5-41c6-9dcc-971c94da4db7))
+  (fp_line (start -0.673711 -17.103691) (end -0.673711 -17.103691) (layer "F.SilkS") (width 0.311607) (tstamp 4168898b-962f-4a82-952f-b469c16850eb))
+  (fp_line (start -7.796409 -22.004092) (end -9.790763 -25.309015) (layer "F.SilkS") (width 0.311607) (tstamp 42e671e4-ef12-483f-9c6c-a0adcb1c1f8d))
+  (fp_line (start -4.833376 -29.012809) (end -5.916019 -27.303366) (layer "F.SilkS") (width 0.311607) (tstamp 43e623e3-ccab-4143-9514-7cabec8fb55f))
+  (fp_line (start -4.833376 -24.397313) (end -4.833376 -24.397313) (layer "F.SilkS") (width 0.311607) (tstamp 43e7e909-ab1c-4fd8-a58c-f29b0a1a80ba))
+  (fp_line (start -13.665584 1.472264) (end -13.665584 1.472264) (layer "F.SilkS") (width 0.311607) (tstamp 440f299d-2fdc-47e6-9ee7-b80270b3926b))
+  (fp_line (start 18.699986 -1.77568) (end 17.788285 -3.656068) (layer "F.SilkS") (width 0.311607) (tstamp 46be4cdf-28dd-4c0b-b1f4-d2f872610dd4))
+  (fp_line (start -13.779491 -11.177618) (end -13.779491 -11.177618) (layer "F.SilkS") (width 0.311607) (tstamp 474627db-7158-4513-946c-8e1d9e0f55ae))
+  (fp_line (start -23.238468 0.275654) (end -24.435079 0.389618) (layer "F.SilkS") (width 0.311607) (tstamp 4750b48e-969b-443b-9a66-5248255e7844))
+  (fp_line (start -12.297971 -8.727417) (end -12.297971 -8.727417) (layer "F.SilkS") (width 0.311607) (tstamp 47f0e381-5442-40b5-9d00-ec900e18d85a))
+  (fp_line (start -14.406251 -17.274631) (end -14.406251 -17.274631) (layer "F.SilkS") (width 0.311607) (tstamp 4891d3ab-5d87-4356-a4dc-95015e650c06))
+  (fp_line (start -8.252264 -29.126772) (end -8.252264 -29.126772) (layer "F.SilkS") (width 0.311607) (tstamp 49880b5f-b74a-4db8-9411-1ac2ae14780b))
+  (fp_line (start -27.853966 4.834176) (end -27.853966 4.834176) (layer "F.SilkS") (width 0.311607) (tstamp 4d32f1e1-ced7-45e7-a79a-cae6738fb5c9))
+  (fp_line (start -23.124503 10.532322) (end -23.124503 10.532322) (layer "F.SilkS") (width 0.311607) (tstamp 4d467d9a-d16f-42aa-93c2-e8d6d5d9a62d))
+  (fp_line (start 26.84821 2.782834) (end 26.84821 2.782834) (layer "F.SilkS") (width 0.311607) (tstamp 51972562-c434-4d64-a2a3-e37d23f9d999))
+  (fp_line (start -8.252264 -29.126772) (end -8.70811 -27.417328) (layer "F.SilkS") (width 0.311607) (tstamp 54140119-7d0e-4e6b-a0da-dc24e24b04bb))
+  (fp_line (start -5.403278 8.594944) (end -3.52289 9.962498) (layer "F.SilkS") (width 0.311607) (tstamp 55b9abe2-3675-4c40-8e79-b869be6db68b))
+  (fp_line (start -1.300533 -16.818782) (end -2.269209 -21.434277) (layer "F.SilkS") (width 0.311607) (tstamp 57c9d5bc-17da-419a-a06b-bc7eca4383ea))
+  (fp_line (start -3.351854 -21.662203) (end -3.18091 -19.838797) (layer "F.SilkS") (width 0.311607) (tstamp 587d35ea-22e0-411f-bcb4-055402025563))
+  (fp_line (start -0.331823 -20.750501) (end -0.331823 -20.750501) (layer "F.SilkS") (width 0.311607) (tstamp 590a3205-a939-439f-8acf-cf9bf5e1d15c))
+  (fp_line (start -2.269209 -21.434277) (end -2.269209 -21.434277) (layer "F.SilkS") (width 0.311607) (tstamp 5a72349f-e55d-4276-9713-d83465b80981))
+  (fp_line (start -14.577197 -14.197633) (end -13.038697 -12.203283) (layer "F.SilkS") (width 0.311607) (tstamp 5aac7bb2-e116-405c-b429-6c3ee919385b))
+  (fp_line (start -14.748139 -20.123704) (end -14.748139 -20.123704) (layer "F.SilkS") (width 0.311607) (tstamp 5b0041bc-9d90-43bc-8c66-1efc94171f0d))
+  (fp_line (start -20.44638 13.552338) (end -17.939193 13.495347) (layer "F.SilkS") (width 0.311607) (tstamp 5bf65a60-bb3a-45b9-b101-f034eac4aeb3))
+  (fp_line (start -13.437571 -23.998442) (end -12.753793 -21.719184) (layer "F.SilkS") (width 0.311607) (tstamp 5c08d91c-a11f-4424-b8fd-fed8ac73142a))
+  (fp_line (start 5.936028 8.139092) (end 5.936028 8.139092) (layer "F.SilkS") (width 0.311607) (tstamp 5d369429-e177-490f-8b8f-bab407bc5aea))
+  (fp_line (start -15.887861 13.438366) (end -9.90481 10.133442) (layer "F.SilkS") (width 0.311607) (tstamp 5f3ef359-61f2-47ca-aa05-630d93b84a3c))
+  (fp_line (start 22.004788 7.569275) (end 22.004788 7.569275) (layer "F.SilkS") (width 0.311607) (tstamp 5f6755ed-4b00-4b24-95c9-9dc540b7014f))
+  (fp_line (start -25.232813 8.87986) (end -25.232813 8.87986) (layer "F.SilkS") (width 0.311607) (tstamp 5f7bc66e-1519-4912-8cca-5db1b994e520))
+  (fp_line (start 18.699986 -1.77568) (end 18.699986 -1.77568) (layer "F.SilkS") (width 0.311607) (tstamp 5fe4a181-2f9e-4461-97db-f906a3b5a0db))
+  (fp_line (start 22.004788 7.569275) (end 25.138775 7.85418) (layer "F.SilkS") (width 0.311607) (tstamp 5fecef6b-e9ce-4425-9245-924df913bf7a))
+  (fp_line (start -13.437571 -23.998442) (end -13.437571 -23.998442) (layer "F.SilkS") (width 0.311607) (tstamp 601ee980-a1ed-4ff5-aa13-496e18f51993))
+  (fp_line (start -25.916591 2.326989) (end -27.512077 2.953785) (layer "F.SilkS") (width 0.311607) (tstamp 6032858e-4a29-43c6-8a0a-0305b1da7499))
+  (fp_line (start -13.779461 -26.448644) (end -13.779461 -26.448644) (layer "F.SilkS") (width 0.311607) (tstamp 6123e8db-8765-414d-9ab6-1b029f36f55b))
+  (fp_line (start 8.386341 -2.687385) (end 8.386341 -2.687385) (layer "F.SilkS") (width 0.311607) (tstamp 629327bc-6d73-4ab5-ac30-876d5a2c3da3))
+  (fp_line (start -11.215355 -4.852674) (end -11.158405 -3.827009) (layer "F.SilkS") (width 0.311607) (tstamp 63aca092-c14a-441e-95ed-edf7fd3cabec))
+  (fp_line (start -3.351854 -24.511275) (end -3.351854 -24.511275) (layer "F.SilkS") (width 0.311607) (tstamp 654a8866-82a3-4cd5-a825-769c094896c9))
+  (fp_line (start -1.585432 -27.417328) (end -1.585432 -27.417328) (layer "F.SilkS") (width 0.311607) (tstamp 662fff70-9600-4789-b9ed-5c1111da2442))
+  (fp_line (start -8.936121 -0.29416) (end -7.682531 0.446599) (layer "F.SilkS") (width 0.311607) (tstamp 69745ddd-2116-48df-b532-93ef5efd8e50))
+  (fp_line (start 31.634652 2.270001) (end 31.634652 2.270001) (layer "F.SilkS") (width 0.311607) (tstamp 6a034768-6fde-4096-90b9-6aa81bef0be9))
+  (fp_line (start 20.124405 1.928113) (end 18.52892 2.554905) (layer "F.SilkS") (width 0.311607) (tstamp 6ad4606b-b602-450e-ad3c-d6db7cfb00ea))
+  (fp_line (start 22.118752 1.415278) (end 20.124405 1.928113) (layer "F.SilkS") (width 0.311607) (tstamp 6c8781ff-a128-4555-a83f-94171e740094))
+  (fp_line (start 3.54292 -6.960994) (end 3.54292 -6.960994) (layer "F.SilkS") (width 0.311607) (tstamp 6d0ac05f-ebfd-4ef0-8d60-70b84485e01c))
+  (fp_line (start -13.038697 -12.203283) (end -13.836441 -12.089321) (layer "F.SilkS") (width 0.311607) (tstamp 7151d3ab-08fd-49d7-bfd1-fe05e553f70d))
+  (fp_line (start -26.600368 1.58623) (end -25.916591 2.326989) (layer "F.SilkS") (width 0.311607) (tstamp 71611943-da7e-408e-8a24-990f07405c3c))
+  (fp_line (start -14.463237 -18.528224) (end -14.463237 -18.528224) (layer "F.SilkS") (width 0.311607) (tstamp 72512a19-7e65-4baa-b6fa-edf6d9499183))
+  (fp_line (start -24.833946 10.304398) (end -23.124503 10.532322) (layer "F.SilkS") (width 0.311607) (tstamp 72726be4-5c89-43a8-ba24-2659550eddb4))
+  (fp_line (start -8.936121 -2.687379) (end -9.676885 -1.376806) (layer "F.SilkS") (width 0.311607) (tstamp 7340218b-afcd-416c-bec6-1092627a89e0))
+  (fp_line (start -1.300533 -16.818782) (end -1.300533 -16.818782) (layer "F.SilkS") (width 0.311607) (tstamp 7380e94a-37e9-474a-8aeb-700311bbb7f4))
+  (fp_line (start 23.258385 2.383961) (end 23.258385 2.383961) (layer "F.SilkS") (width 0.311607) (tstamp 73d00bd7-b6c4-4f85-a40c-b176ff15308f))
+  (fp_line (start -8.936121 -2.687379) (end -8.936121 -2.687379) (layer "F.SilkS") (width 0.311607) (tstamp 765aac9e-5a93-4a1c-b5c2-f33ccf52f62e))
+  (fp_line (start -24.435079 0.389618) (end -25.004891 0.845469) (layer "F.SilkS") (width 0.311607) (tstamp 770f35c2-9168-4e1d-8af0-4d456351d019))
+  (fp_line (start -6.998756 7.968148) (end -5.403278 8.594944) (layer "F.SilkS") (width 0.311607) (tstamp 772518ce-960b-471f-bb8f-215f8c59ed71))
+  (fp_line (start 27.190106 2.156037) (end 26.278397 1.301314) (layer "F.SilkS") (width 0.311607) (tstamp 777e875c-8129-4e66-a19e-170b646554d6))
+  (fp_line (start -8.936121 -0.29416) (end -8.936121 -0.29416) (layer "F.SilkS") (width 0.311607) (tstamp 778e9ede-ecec-44d3-a2a4-f623dcf1a3d3))
+  (fp_line (start 8.386341 -2.687385) (end 7.47464 -2.915311) (layer "F.SilkS") (width 0.311607) (tstamp 79bc1ff1-aa5d-45bb-9732-59245c206811))
+  (fp_line (start 15.50903 -5.194568) (end 15.50903 -5.194568) (layer "F.SilkS") (width 0.311607) (tstamp 7b2edd4c-ab12-4af9-9a9a-751818815070))
+  (fp_line (start -14.577197 -14.767448) (end -14.577197 -14.197633) (layer "F.SilkS") (width 0.311607) (tstamp 7bcd9234-06e7-4662-9bd1-99409d3a3524))
+  (fp_line (start -5.403278 8.594944) (end -5.403278 8.594944) (layer "F.SilkS") (width 0.311607) (tstamp 7bda45ae-9ae1-44af-b080-27c2d82355c8))
+  (fp_line (start -26.999244 5.517952) (end -27.512077 6.201733) (layer "F.SilkS") (width 0.311607) (tstamp 7d679d0b-9e4a-4cc2-9192-660195909da5))
+  (fp_line (start 0.636866 -16.7618) (end 0.636866 -16.7618) (layer "F.SilkS") (width 0.311607) (tstamp 7e354ca6-2ae3-41e7-a0d6-5561b07f3bf0))
+  (fp_line (start -11.215355 -4.852674) (end -11.215355 -4.852674) (layer "F.SilkS") (width 0.311607) (tstamp 7f960340-eeff-4707-bfff-ed6b52012541))
+  (fp_line (start 26.164441 7.512291) (end 29.697285 6.71455) (layer "F.SilkS") (width 0.311607) (tstamp 7fae51f2-7e2c-4742-8293-3613fd82a668))
+  (fp_line (start -19.933547 0.446599) (end -22.440725 -0.009252) (layer "F.SilkS") (width 0.311607) (tstamp 80e2f152-9065-4116-8972-811e1fe07163))
+  (fp_line (start -27.512077 2.953785) (end -26.8283 4.093415) (layer "F.SilkS") (width 0.311607) (tstamp 8134c270-17e6-4769-9895-174b0d9ae43f))
+  (fp_line (start -2.098264 -25.309015) (end -1.585432 -27.417328) (layer "F.SilkS") (width 0.311607) (tstamp 823fba68-951a-4a0b-89f9-8860710065c1))
+  (fp_line (start -14.748139 -21.662202) (end -13.950404 -20.00974) (layer "F.SilkS") (width 0.311607) (tstamp 825d061b-4f1d-4224-a539-bb186ef1bcc2))
+  (fp_line (start 11.292397 -3.883995) (end 8.386341 -2.687385) (layer "F.SilkS") (width 0.311607) (tstamp 83436332-42ad-405b-8ef2-23414787051a))
+  (fp_line (start 15.50903 -5.194568) (end 11.178433 -6.049291) (layer "F.SilkS") (width 0.311607) (tstamp 837c056c-7cc1-4807-b0a7-2cc725abc308))
+  (fp_line (start -26.999244 5.517952) (end -26.999244 5.517952) (layer "F.SilkS") (width 0.311607) (tstamp 86436492-71e8-4727-b2cb-b494569e4cc4))
+  (fp_line (start -2.269209 -21.434277) (end -2.098264 -25.309015) (layer "F.SilkS") (width 0.311607) (tstamp 8688f4cc-63b3-470c-a867-10431b5f7415))
+  (fp_line (start -14.406251 -17.274631) (end -14.007384 -15.62217) (layer "F.SilkS") (width 0.311607) (tstamp 86b57367-6cef-4e1e-a6d7-98046a9ba26a))
+  (fp_line (start -1.585432 -27.417328) (end -3.351854 -24.511275) (layer "F.SilkS") (width 0.311607) (tstamp 87952e35-b6f0-4cac-82b0-dc1d8f439c90))
+  (fp_line (start -14.634182 -23.257683) (end -14.748139 -21.662202) (layer "F.SilkS") (width 0.311607) (tstamp 889f8ca4-f283-4e8f-8633-141856de1324))
+  (fp_line (start 30.665974 2.440945) (end 29.640309 1.757168) (layer "F.SilkS") (width 0.311607) (tstamp 88e81bec-e272-44f3-b31c-3e45f9cdf213))
+  (fp_line (start -5.802055 -23.770516) (end -5.802055 -23.770516) (layer "F.SilkS") (width 0.311607) (tstamp 8971e0e9-6db9-4b75-9c35-92d93cba15e4))
+  (fp_line (start -11.158405 -3.827009) (end -10.075752 -3.02927) (layer "F.SilkS") (width 0.311607) (tstamp 8c470d61-5edb-4ada-8cbd-d8475577b03c))
+  (fp_line (start -19.933547 0.446599) (end -19.933547 0.446599) (layer "F.SilkS") (width 0.311607) (tstamp 8dce02c8-ec49-4dcb-a397-2a8bf182b4f6))
+  (fp_line (start -27.512077 2.953785) (end -27.512077 2.953785) (layer "F.SilkS") (width 0.311607) (tstamp 9013ee0d-36b7-456c-808a-9fe0eeaa43d1))
+  (fp_line (start 13.742482 4.49228) (end 13.742482 4.49228) (layer "F.SilkS") (width 0.311607) (tstamp 913abe22-3858-4f05-9323-bea8f6482434))
+  (fp_line (start 31.634652 2.270001) (end 30.665974 2.440945) (layer "F.SilkS") (width 0.311607) (tstamp 91786095-e947-4518-9f3e-5712e489fbd1))
+  (fp_line (start -14.748139 -20.123704) (end -14.463237 -18.528224) (layer "F.SilkS") (width 0.311607) (tstamp 927cfb72-29eb-4f50-802a-4ca75803d23c))
+  (fp_line (start -3.52289 9.962498) (end -0.901746 10.361367) (layer "F.SilkS") (width 0.311607) (tstamp 953fe833-f13d-44e0-9c98-56fe2e297784))
+  (fp_line (start -3.18091 -19.838797) (end -3.18091 -19.838797) (layer "F.SilkS") (width 0.311607) (tstamp 963422fb-a97d-4346-bd39-58641ca89915))
+  (fp_line (start -7.340555 -25.309015) (end -8.252264 -29.126772) (layer "F.SilkS") (width 0.311607) (tstamp 975045df-ad1c-433f-9347-6dda18e74884))
+  (fp_line (start -20.44638 13.552338) (end -20.44638 13.552338) (layer "F.SilkS") (width 0.311607) (tstamp 988b982c-f38d-4f68-8bc6-b6e97c4194bf))
+  (fp_line (start -0.901746 10.361367) (end 5.936028 8.139092) (layer "F.SilkS") (width 0.311607) (tstamp 98b5c860-5b2c-4249-883c-db32231c91e9))
+  (fp_line (start -6.884798 1.814152) (end -13.665584 1.472264) (layer "F.SilkS") (width 0.311607) (tstamp 992f14bf-0241-4db9-b16c-7bb6740e3eba))
+  (fp_line (start -14.634182 -23.257683) (end -14.634182 -23.257683) (layer "F.SilkS") (width 0.311607) (tstamp 9a8ea37c-5a47-45a8-9d3f-4b85583d5c23))
+  (fp_line (start 18.52892 2.554905) (end 18.52892 2.554905) (layer "F.SilkS") (width 0.311607) (tstamp 9b58c7d0-16ec-4447-9e26-57193d03dc91))
+  (fp_line (start -12.924739 -14.596504) (end -12.924739 -14.596504) (layer "F.SilkS") (width 0.311607) (tstamp 9bb5b6b4-8292-448a-bc71-3abcc9c15e8a))
+  (fp_line (start -7.682531 0.446599) (end -6.884798 1.814152) (layer "F.SilkS") (width 0.311607) (tstamp 9e7d986a-3054-4981-ae4f-1321e92f34f2))
+  (fp_line (start -1.357483 -17.616522) (end -1.300533 -16.818782) (layer "F.SilkS") (width 0.311607) (tstamp 9e92dce2-cc2e-4b32-ae21-6ba1c293e4b7))
+  (fp_line (start -12.753826 -10.09497) (end -10.930416 -8.841379) (layer "F.SilkS") (width 0.311607) (tstamp 9f0af323-becc-4056-af52-50b8d3ca733d))
+  (fp_line (start -9.790763 -25.309015) (end -9.790763 -25.309015) (layer "F.SilkS") (width 0.311607) (tstamp 9f2b3099-436a-4bed-affc-f62ead470d00))
+  (fp_line (start -22.839601 11.728932) (end -22.839601 11.728932) (layer "F.SilkS") (width 0.311607) (tstamp a11e01ac-0189-48a6-888d-db3c8100b02c))
+  (fp_line (start 32.033528 2.725853) (end 31.634652 2.270001) (layer "F.SilkS") (width 0.311607) (tstamp a1352bf0-c3c7-4ec3-8ba8-b58f1898b0d5))
+  (fp_line (start -0.673711 -17.103691) (end -0.331823 -20.750501) (layer "F.SilkS") (width 0.311607) (tstamp a15ffa3d-471f-435b-85dd-a33679a61bb3))
+  (fp_line (start 30.665974 2.440945) (end 30.665974 2.440945) (layer "F.SilkS") (width 0.311607) (tstamp a47e23e7-a862-4941-a2f8-e141aee37da4))
+  (fp_line (start -11.158405 -3.827009) (end -11.158405 -3.827009) (layer "F.SilkS") (width 0.311607) (tstamp a5684f42-3d11-407f-9254-13e4b017f4a1))
+  (fp_line (start -22.440725 -0.009252) (end -23.238468 0.275654) (layer "F.SilkS") (width 0.311607) (tstamp a6c69605-2184-49c8-8476-fe633819f7b1))
+  (fp_line (start 11.292397 -3.883995) (end 11.292397 -3.883995) (layer "F.SilkS") (width 0.311607) (tstamp a6cd1e46-e673-44af-a23c-111879eeffac))
+  (fp_line (start 19.782521 6.372666) (end 19.782521 6.372666) (layer "F.SilkS") (width 0.311607) (tstamp a8c96268-d96d-45e0-9688-77e341e2debb))
+  (fp_line (start -10.588556 -5.707399) (end -11.215355 -4.852674) (layer "F.SilkS") (width 0.311607) (tstamp ab150e50-71e8-4f9d-9a31-ae54a8d61398))
+  (fp_line (start -14.577197 -14.767448) (end -14.577197 -14.767448) (layer "F.SilkS") (width 0.311607) (tstamp ab41b3ff-1e3c-4b48-ba96-c49ff91a3249))
+  (fp_line (start -15.887861 13.438366) (end -15.887861 13.438366) (layer "F.SilkS") (width 0.311607) (tstamp ab73d21d-26f4-4d32-9835-b69bd6b858c7))
+  (fp_line (start -10.474531 -22.34598) (end -10.474531 -22.34598) (layer "F.SilkS") (width 0.311607) (tstamp abb7ce2c-e504-406d-b04e-f5d9e1265f9d))
+  (fp_line (start -0.958614 -22.175037) (end -1.528427 -20.009742) (layer "F.SilkS") (width 0.311607) (tstamp ac0a9874-9a49-4b1f-af1e-dab94ca86a22))
+  (fp_line (start 7.47464 -2.915311) (end 7.47464 -2.915311) (layer "F.SilkS") (width 0.311607) (tstamp ae499025-5e83-4d00-bd0e-f234a6733c94))
+  (fp_line (start 30.950882 4.264351) (end 30.950882 4.264351) (layer "F.SilkS") (width 0.311607) (tstamp b1014f6b-db74-40b2-8c35-bb6eadfce15e))
+  (fp_line (start -17.939193 13.495347) (end -17.939193 13.495347) (layer "F.SilkS") (width 0.311607) (tstamp b1e5ee5a-f787-436b-ad02-4cee548d26ba))
+  (fp_line (start 18.52892 2.554905) (end 17.959107 1.814148) (layer "F.SilkS") (width 0.311607) (tstamp b38b0a2d-038f-4b8e-821c-ada99fede543))
+  (fp_line (start 11.691265 -4.567773) (end 11.292397 -3.883995) (layer "F.SilkS") (width 0.311607) (tstamp b4cd5dd7-c660-41be-b1bf-de1ca2422434))
+  (fp_line (start -5.802055 -23.770516) (end -5.460167 -21.377296) (layer "F.SilkS") (width 0.311607) (tstamp b6c67f4e-34d7-4b64-91b4-6e09bcf87a6d))
+  (fp_line (start 15.337963 2.326981) (end 15.337963 2.326981) (layer "F.SilkS") (width 0.311607) (tstamp b6c6b20d-07b0-47b4-bcb7-27336662af71))
+  (fp_line (start -27.853966 4.834176) (end -26.999244 5.517952) (layer "F.SilkS") (width 0.311607) (tstamp b6c83230-60a2-49ad-a222-21bb76ce9489))
+  (fp_line (start -10.474531 -22.34598) (end -13.779461 -26.448644) (layer "F.SilkS") (width 0.311607) (tstamp b7251c72-16b7-4a16-ac76-ec0d15211cb8))
+  (fp_line (start -12.924739 -14.596504) (end -14.577197 -14.767448) (layer "F.SilkS") (width 0.311607) (tstamp b81caab1-d554-4225-b785-2d6735a4b63c))
+  (fp_line (start -23.124503 10.532322) (end -22.839601 11.728932) (layer "F.SilkS") (width 0.311607) (tstamp b8f33231-d7f5-4335-8289-ee8c2cbcd5ef))
+  (fp_line (start -0.160879 -14.995376) (end -0.673711 -17.103691) (layer "F.SilkS") (width 0.311607) (tstamp b95c2877-89cc-46b6-b6a7-e903d10f7304))
+  (fp_line (start 0.351954 -23.485611) (end -0.958614 -22.175037) (layer "F.SilkS") (width 0.311607) (tstamp ba95558a-3344-400d-baac-6e0795f6ce52))
+  (fp_line (start 18.300995 0.617539) (end 18.300995 0.617539) (layer "F.SilkS") (width 0.311607) (tstamp bab13dad-8ff1-4494-bdd1-8e28b8a436e4))
+  (fp_line (start -8.70811 -27.417328) (end -8.423208 -24.910146) (layer "F.SilkS") (width 0.311607) (tstamp bae1a9fa-6532-414d-a17e-03ad2b9460f6))
+  (fp_line (start -7.340555 -25.309015) (end -7.340555 -25.309015) (layer "F.SilkS") (width 0.311607) (tstamp bb37e092-f96c-4b86-9c92-f72a928e63db))
+  (fp_line (start -14.007384 -15.62217) (end -14.007384 -15.62217) (layer "F.SilkS") (width 0.311607) (tstamp bd1f47f6-986a-4e01-90ca-0f0cd83ef525))
+  (fp_line (start -11.329261 -25.707884) (end -10.474531 -22.34598) (layer "F.SilkS") (width 0.311607) (tstamp bf885b1c-4f83-4b2c-bd84-60cdaafc6ae0))
+  (fp_line (start -3.351854 -21.662203) (end -3.351854 -21.662203) (layer "F.SilkS") (width 0.311607) (tstamp c00614a6-f407-4ee3-b9cc-43904762ebfe))
+  (fp_line (start 15.337963 2.326981) (end 18.300995 0.617539) (layer "F.SilkS") (width 0.311607) (tstamp c0080c81-58fd-45cc-b4e6-f7d26003f59e))
+  (fp_line (start 11.349377 -5.593439) (end 11.349377 -5.593439) (layer "F.SilkS") (width 0.311607) (tstamp c00f66db-273e-4271-9ee5-e50d10646f10))
+  (fp_line (start -14.463237 -18.528224) (end -12.867752 -16.81878) (layer "F.SilkS") (width 0.311607) (tstamp c021a869-c14c-495f-9012-2da311661768))
+  (fp_line (start -5.460167 -21.377296) (end -7.340555 -25.309015) (layer "F.SilkS") (width 0.311607) (tstamp c08ce1aa-64fd-46b8-8dd8-702cbc23037d))
+  (fp_line (start 16.591557 4.891148) (end 16.591557 4.891148) (layer "F.SilkS") (width 0.311607) (tstamp c102127f-7e73-4213-b4eb-3db6022f3ec4))
+  (fp_line (start 17.845147 6.030777) (end 19.782521 6.372666) (layer "F.SilkS") (width 0.311607) (tstamp c11a8940-51f7-42b6-b06c-9ced5dabed29))
+  (fp_line (start 31.121827 4.720204) (end 31.121827 4.720204) (layer "F.SilkS") (width 0.311607) (tstamp c193a819-257d-45ef-a399-73e13e0895d5))
+  (fp_line (start -27.512077 6.201733) (end -27.512077 6.201733) (layer "F.SilkS") (width 0.311607) (tstamp c2381c1a-7b2d-4405-bf2b-dfb98f94c31d))
+  (fp_line (start 11.349377 -5.593439) (end 11.007496 -5.308534) (layer "F.SilkS") (width 0.311607) (tstamp c3160c21-72f3-4970-8253-138bc15d524b))
+  (fp_line (start -26.8283 8.139103) (end -25.232813 8.87986) (layer "F.SilkS") (width 0.311607) (tstamp c3589b5a-0d08-4180-ae3f-92797ef7c4c2))
+  (fp_line (start 26.84821 2.782834) (end 27.190106 2.156037) (layer "F.SilkS") (width 0.311607) (tstamp c3b611a1-8052-4bf6-8e97-984349cba8d6))
+  (fp_line (start -26.657356 6.942494) (end -26.8283 8.139103) (layer "F.SilkS") (width 0.311607) (tstamp c451f7c0-2f91-4e69-8758-996005b3785e))
+  (fp_line (start 16.591557 4.891148) (end 17.845147 6.030777) (layer "F.SilkS") (width 0.311607) (tstamp c46c262a-4cee-4e7a-82fc-6c95d3867dc3))
+  (fp_line (start -6.998756 7.968148) (end -6.998756 7.968148) (layer "F.SilkS") (width 0.311607) (tstamp c4f0be51-953c-4f01-8c3f-74d193116cc3))
+  (fp_line (start -27.512077 6.201733) (end -26.657356 6.942494) (layer "F.SilkS") (width 0.311607) (tstamp c7c6c4a7-710a-4ca1-82b0-a29fc01da512))
+  (fp_line (start -26.8283 4.093415) (end -27.853966 4.834176) (layer "F.SilkS") (width 0.311607) (tstamp c7ed38b9-8c57-4265-ab63-7b50504a289e))
+  (fp_line (start -25.232813 8.87986) (end -24.833946 10.304398) (layer "F.SilkS") (width 0.311607) (tstamp c8eb1067-c13d-4b80-aad5-c5c7686102b7))
+  (fp_line (start -10.075752 -3.02927) (end -8.936121 -2.687379) (layer "F.SilkS") (width 0.311607) (tstamp c943188e-67a1-4ef7-8700-2be3c2b28d05))
+  (fp_line (start 17.959107 1.814148) (end 15.337963 2.326981) (layer "F.SilkS") (width 0.311607) (tstamp cb009cc1-93bf-4cc3-a1fa-4125402a4bff))
+  (fp_line (start 23.258385 2.383961) (end 22.118752 1.415278) (layer "F.SilkS") (width 0.311607) (tstamp cb4bd9aa-fe1c-4b53-b2b2-903f051686fc))
+  (fp_line (start -14.007384 -15.62217) (end -12.924739 -14.596504) (layer "F.SilkS") (width 0.311607) (tstamp cc11198a-03dc-4f5a-8ba5-fbcc06869cee))
+  (fp_line (start 17.845147 6.030777) (end 17.845147 6.030777) (layer "F.SilkS") (width 0.311607) (tstamp cde1f5ea-d044-4e23-9c05-4d56eb62d080))
+  (fp_line (start -24.435079 0.389618) (end -24.435079 0.389618) (layer "F.SilkS") (width 0.311607) (tstamp ce1b2e97-3bb3-42a8-8c0e-dc6b084af07b))
+  (fp_line (start 29.640309 1.757168) (end 29.640309 1.757168) (layer "F.SilkS") (width 0.311607) (tstamp cfd121d0-e8d4-4a7d-9ecf-3c5cad81af79))
+  (fp_line (start 31.121827 4.720204) (end 30.950882 4.264351) (layer "F.SilkS") (width 0.311607) (tstamp d0e862ad-6666-4c77-8f26-76b68e9ae211))
+  (fp_line (start -25.916591 2.326989) (end -25.916591 2.326989) (layer "F.SilkS") (width 0.311607) (tstamp d173f75f-eadf-4f75-a38f-d8cbaa876f93))
+  (fp_line (start -12.810804 -7.986658) (end -12.810804 -7.986658) (layer "F.SilkS") (width 0.311607) (tstamp d24f6a90-eaca-4ace-a4b4-e14a5454532a))
+  (fp_line (start -10.075752 -3.02927) (end -10.075752 -3.02927) (layer "F.SilkS") (width 0.311607) (tstamp d5340b3e-146f-4275-bc0a-75c7f0bf6253))
+  (fp_line (start 20.124405 1.928113) (end 20.124405 1.928113) (layer "F.SilkS") (width 0.311607) (tstamp d79a475b-9698-48ea-aeea-a89c8cb7fe90))
+  (fp_line (start -12.753854 -7.131935) (end -12.753854 -7.131935) (layer "F.SilkS") (width 0.311607) (tstamp d85a99ed-f394-4f77-85f7-0792ee359a02))
+  (fp_line (start -12.753793 -21.719184) (end -12.753793 -21.719184) (layer "F.SilkS") (width 0.311607) (tstamp d8e9b49d-67ae-4232-9b41-ce999ac60fb8))
+  (fp_line (start -1.528427 -20.009742) (end -1.528427 -20.009742) (layer "F.SilkS") (width 0.311607) (tstamp d98f2c3e-b42e-4965-bb31-60deac983a6a))
+  (fp_line (start 0.351954 -23.485611) (end 0.351954 -23.485611) (layer "F.SilkS") (width 0.311607) (tstamp dab93b45-08ad-4f52-9815-d7172f7d9704))
+  (fp_line (start -2.098264 -25.309015) (end -2.098264 -25.309015) (layer "F.SilkS") (width 0.311607) (tstamp dbedb0e9-dc5b-4e52-ae30-dccb39c9175a))
+  (fp_line (start -11.329261 -25.707884) (end -11.329261 -25.707884) (layer "F.SilkS") (width 0.311607) (tstamp dd572ddf-de90-4678-9719-a79060e139e2))
+  (fp_line (start 30.950882 4.264351) (end 32.033528 2.725853) (layer "F.SilkS") (width 0.311607) (tstamp de058b7f-9bf9-4f2d-9926-111892c842ce))
+  (fp_line (start -0.160879 -14.995376) (end -0.160879 -14.995376) (layer "F.SilkS") (width 0.311607) (tstamp de242564-0da7-428d-a373-811786faa9df))
+  (fp_line (start -11.215297 -28.386012) (end -11.215297 -28.386012) (layer "F.SilkS") (width 0.311607) (tstamp de2f4b22-c4bb-4fb0-8e39-7d0a0cd9a12d))
+  (fp_line (start 18.300995 0.617539) (end 21.492081 0.161688) (layer "F.SilkS") (width 0.311607) (tstamp de999fc3-07cc-4d64-960d-b70c8bd1a2df))
+  (fp_line (start -12.867752 -16.81878) (end -14.406251 -17.274631) (layer "F.SilkS") (width 0.311607) (tstamp df9321df-d911-4415-b252-f541d03a775b))
+  (fp_line (start 11.235302 5.29002) (end 11.235302 5.29002) (layer "F.SilkS") (width 0.311607) (tstamp e01934a6-e1b4-4347-954c-221b2aa3068b))
+  (fp_line (start -9.676885 -1.376806) (end -9.676885 -1.376806) (layer "F.SilkS") (width 0.311607) (tstamp e0e0ad32-b771-48e9-8927-dad337819f53))
+  (fp_line (start -11.215297 -28.386012) (end -11.329261 -25.707884) (layer "F.SilkS") (width 0.311607) (tstamp e375defd-0f2f-4071-82f2-ba5b1f347210))
+  (fp_line (start -13.836441 -12.089321) (end -13.836441 -12.089321) (layer "F.SilkS") (width 0.311607) (tstamp e391904e-b318-4b16-b340-28bf611b5dd8))
+  (fp_line (start 11.007496 -5.308534) (end 11.007496 -5.308534) (layer "F.SilkS") (width 0.311607) (tstamp e5972877-3c4a-4959-be98-61102c65757b))
+  (fp_line (start -13.779461 -26.448644) (end -13.437571 -23.998442) (layer "F.SilkS") (width 0.311607) (tstamp e5c4053b-ada7-4d62-b551-292f16785867))
+  (fp_line (start -4.833376 -29.012809) (end -4.833376 -29.012809) (layer "F.SilkS") (width 0.311607) (tstamp e5db2538-0b57-40b9-bc5e-fc38d514eaac))
+  (fp_line (start -22.440725 -0.009252) (end -22.440725 -0.009252) (layer "F.SilkS") (width 0.311607) (tstamp e6cb5f13-d736-4dc8-a276-1b4b002fff10))
+  (fp_line (start -0.958614 -22.175037) (end -0.958614 -22.175037) (layer "F.SilkS") (width 0.311607) (tstamp e762ef1d-95fe-4b3c-b77e-fc6a91748a80))
+  (fp_line (start -5.916019 -27.303366) (end -5.802055 -23.770516) (layer "F.SilkS") (width 0.311607) (tstamp e86885a3-7030-4fef-9a09-221021f0043e))
+  (fp_line (start -1.528427 -20.009742) (end -1.357483 -17.616522) (layer "F.SilkS") (width 0.311607) (tstamp e871f22d-28f5-4f51-ac4c-52abc3ee5dd0))
+  (fp_line (start 0.237997 -13.627822) (end 0.237997 -13.627822) (layer "F.SilkS") (width 0.311607) (tstamp e8ad9c2e-ba3d-4bbf-b500-d591d9f6a300))
+  (fp_line (start 29.640309 1.757168) (end 26.84821 2.782834) (layer "F.SilkS") (width 0.311607) (tstamp e8d2ebd5-ed43-4966-b11e-09a72bca23bf))
+  (fp_line (start -17.939193 13.495347) (end -15.887861 13.438366) (layer "F.SilkS") (width 0.311607) (tstamp ea961a98-e78a-4ab4-8243-bac104b9075e))
+  (fp_line (start -5.460167 -21.377296) (end -5.460167 -21.377296) (layer "F.SilkS") (width 0.311607) (tstamp eafbce64-59ac-4ea2-8c01-9aa695dffada))
+  (fp_line (start 11.178433 -6.049291) (end 11.349377 -5.593439) (layer "F.SilkS") (width 0.311607) (tstamp eb3af54e-e68a-48ed-bdde-6064d3fc0185))
+  (fp_line (start 26.278397 1.301314) (end 26.278397 1.301314) (layer "F.SilkS") (width 0.311607) (tstamp ecaa5463-7618-473f-a34a-878297909e83))
+  (fp_line (start -20.275436 12.184784) (end -20.275436 12.184784) (layer "F.SilkS") (width 0.311607) (tstamp ed01163a-06c2-49e1-958c-4810f1d31cba))
+  (fp_line (start -0.331823 -20.750501) (end 0.351954 -23.485611) (layer "F.SilkS") (width 0.311607) (tstamp ee8caace-2b88-4ab9-a025-f6456ec1ff68))
+  (fp_line (start 29.697285 6.71455) (end 31.121827 4.720204) (layer "F.SilkS") (width 0.311607) (tstamp ef31535c-3677-47ff-bc0c-b8424eaa1802))
+  (fp_line (start -13.038697 -12.203283) (end -13.038697 -12.203283) (layer "F.SilkS") (width 0.311607) (tstamp f1e7a59b-2529-4c23-95e9-9778e5ff4edb))
+  (fp_line (start 21.492081 0.161688) (end 18.699986 -1.77568) (layer "F.SilkS") (width 0.311607) (tstamp f5c323e9-2125-46a4-a8f3-dc1e2371d741))
+  (fp_line (start -9.90481 10.133442) (end -9.90481 10.133442) (layer "F.SilkS") (width 0.311607) (tstamp f5e3fd6c-b4c6-4266-b795-3c0112f80fef))
+  (fp_line (start -8.423208 -24.910146) (end -7.796409 -22.004092) (layer "F.SilkS") (width 0.311607) (tstamp f9c2a45f-5ef5-43ff-bc89-5902a7d0d32e))
+  (fp_line (start -13.836441 -12.089321) (end -13.779491 -11.177618) (layer "F.SilkS") (width 0.311607) (tstamp fb6608e7-6429-4f18-8f2b-19b8a34e8540))
+  (fp_line (start -26.600368 1.58623) (end -26.600368 1.58623) (layer "F.SilkS") (width 0.311607) (tstamp fb8fdd46-5d90-4b9c-b3c1-48252a8372e4))
+  (fp_line (start -12.867752 -16.81878) (end -12.867752 -16.81878) (layer "F.SilkS") (width 0.311607) (tstamp fd3018e3-5bd5-40ff-a764-c5c94fccc362))
+  (fp_line (start -22.839601 11.728932) (end -20.275436 12.184784) (layer "F.SilkS") (width 0.311607) (tstamp fdce454e-4380-4158-b01a-5fc755509472))
+  (fp_line (start -12.753793 -21.719184) (end -14.634182 -23.257683) (layer "F.SilkS") (width 0.311607) (tstamp ffbc7b9e-76e1-4db1-b134-25ddde90510d))
+  (fp_line (start -13.950404 -20.00974) (end -14.748139 -20.123704) (layer "F.SilkS") (width 0.311607) (tstamp fff98634-f09e-45d0-bf35-bb5aa2ea8730))
+  (group "" (id 22816fff-5dcd-4fb0-91ab-71f6d800f871)
+    (members
+      00053a36-d6f6-4495-b0e9-0e9a46b2b45f
+      0056d0dd-b6c8-4d39-bb1d-619ef4783b4b
+      033df54e-bc53-4903-b91a-bed417ce06f4
+      0416c6d4-31cf-47a2-b8b0-b79994d74ac9
+      04931c99-c163-49f8-b1cd-aade436cdcac
+      052c6e57-4a09-4e40-87c2-6a9bc5a30375
+      06246ea1-2726-41ca-9d38-eb5be3965a01
+      0708e873-06a6-4a2f-94dd-631c0ae5e3f2
+      08429901-5442-4df4-abbf-7a6c6d7f6df7
+      09b61e28-9fbc-4dec-ad7f-78e1c3c0b4a4
+      0bc4af11-bf73-4158-a36e-610c1e243ebd
+      0d254cbb-1ba1-4dad-bcf8-0977b255910a
+      0d617ece-a99b-40cf-a979-71e074fc3079
+      0eb6d71d-eda3-4a1a-85ea-cb716ebcaaf3
+      0f56a046-379b-47c1-ad55-aa73a473a71b
+      105e3aba-3981-4dd1-8bd9-de7338dd0aba
+      10c04db3-9cf4-4a1f-b236-7ab72f46c875
+      124553c5-8e99-4f0e-8ce8-5c2104de51a6
+      1248b172-9cf2-4aed-b142-d9ca9f94247d
+      12c76d6d-0e15-4bbd-a4d7-b7ed5f0b4c9b
+      1319925c-8e99-40fc-aa08-bd4f1958e29d
+      13a37ddf-1c05-46a2-87fe-1867d82425d0
+      1518cd7c-c30d-4c49-ba3e-1d4a28697a05
+      15190e4d-13e1-4c6f-affb-b868f79b7991
+      187e21e3-8a96-401c-80be-fb503e7ae9ea
+      19803130-7138-4207-87e7-5db7fe7d425f
+      1b8cd073-26dd-42d1-b6b7-1a6087bdbc99
+      1cd39d20-eafe-488a-823b-65424a0c5678
+      1e0e28d9-d5af-433c-b008-1eda3a05e672
+      1e800149-4150-4ced-95ab-e6b80d9a9007
+      1eceb7f4-05dd-42f3-9c02-16fb4631531d
+      2078129b-02a9-4808-916c-e4c0f8458639
+      21336ad8-ddb7-4dd2-8b6f-2879155ee9c1
+      2179a948-69bd-4e71-b503-504c20475d9f
+      23ee111a-04fc-4254-b399-be06da7aa1ec
+      2677567b-ef0a-448d-bf1c-70ee1f03ebc6
+      26b9bc6e-31bc-462d-847a-cb6cfb622f6e
+      26f810fa-e72c-42f2-9c40-299f03a92794
+      285b4eeb-0beb-4314-bba5-f943431fc338
+      2a16ea66-932f-4856-b88c-67e0a95943c7
+      2ad6edb7-a075-4dc7-8d39-940719504fda
+      2c10e8f2-4cfb-42ea-b78d-8aef72c3d2b0
+      2c1df08d-e577-4e84-8c89-d53521b07988
+      2d82b869-de74-4bdc-ad72-50862d6233cf
+      2e7d8bf4-1b40-408e-96c5-ce5dd95f67ee
+      2ed9fc27-4f06-4fbb-b686-6f6eb86942be
+      3041f777-7f97-4a01-bda2-75770b28aa64
+      30480296-4367-4f75-afd0-1e990e7c8943
+      315ddc5c-ccab-41d5-8fdd-3bf6c22e5ce9
+      316bf971-e7d3-4c37-b11e-e6e1828d8fb2
+      3355482a-6daf-49f0-920b-4de86e9cc449
+      3d714583-f418-4caf-b967-ab89cf848eee
+      3d8adfe7-5006-4e2b-881c-79b62668b6de
+      3eaf9efa-beaf-404f-aba4-ac37d13032f2
+      3f0e68c0-87bb-4de2-8ccb-07fb7ec2f895
+      3fc84005-70bd-4661-95d5-5b1094e03ada
+      40b75d4b-65c5-41c6-9dcc-971c94da4db7
+      4168898b-962f-4a82-952f-b469c16850eb
+      42e671e4-ef12-483f-9c6c-a0adcb1c1f8d
+      43e623e3-ccab-4143-9514-7cabec8fb55f
+      43e7e909-ab1c-4fd8-a58c-f29b0a1a80ba
+      440f299d-2fdc-47e6-9ee7-b80270b3926b
+      46be4cdf-28dd-4c0b-b1f4-d2f872610dd4
+      474627db-7158-4513-946c-8e1d9e0f55ae
+      4750b48e-969b-443b-9a66-5248255e7844
+      47f0e381-5442-40b5-9d00-ec900e18d85a
+      4891d3ab-5d87-4356-a4dc-95015e650c06
+      49880b5f-b74a-4db8-9411-1ac2ae14780b
+      4d32f1e1-ced7-45e7-a79a-cae6738fb5c9
+      4d467d9a-d16f-42aa-93c2-e8d6d5d9a62d
+      51972562-c434-4d64-a2a3-e37d23f9d999
+      54140119-7d0e-4e6b-a0da-dc24e24b04bb
+      55b9abe2-3675-4c40-8e79-b869be6db68b
+      57c9d5bc-17da-419a-a06b-bc7eca4383ea
+      587d35ea-22e0-411f-bcb4-055402025563
+      590a3205-a939-439f-8acf-cf9bf5e1d15c
+      5a72349f-e55d-4276-9713-d83465b80981
+      5aac7bb2-e116-405c-b429-6c3ee919385b
+      5b0041bc-9d90-43bc-8c66-1efc94171f0d
+      5bf65a60-bb3a-45b9-b101-f034eac4aeb3
+      5c08d91c-a11f-4424-b8fd-fed8ac73142a
+      5d369429-e177-490f-8b8f-bab407bc5aea
+      5f3ef359-61f2-47ca-aa05-630d93b84a3c
+      5f6755ed-4b00-4b24-95c9-9dc540b7014f
+      5f7bc66e-1519-4912-8cca-5db1b994e520
+      5fe4a181-2f9e-4461-97db-f906a3b5a0db
+      5fecef6b-e9ce-4425-9245-924df913bf7a
+      601ee980-a1ed-4ff5-aa13-496e18f51993
+      6032858e-4a29-43c6-8a0a-0305b1da7499
+      6123e8db-8765-414d-9ab6-1b029f36f55b
+      629327bc-6d73-4ab5-ac30-876d5a2c3da3
+      63aca092-c14a-441e-95ed-edf7fd3cabec
+      654a8866-82a3-4cd5-a825-769c094896c9
+      662fff70-9600-4789-b9ed-5c1111da2442
+      69745ddd-2116-48df-b532-93ef5efd8e50
+      6a034768-6fde-4096-90b9-6aa81bef0be9
+      6ad4606b-b602-450e-ad3c-d6db7cfb00ea
+      6c8781ff-a128-4555-a83f-94171e740094
+      6d0ac05f-ebfd-4ef0-8d60-70b84485e01c
+      7151d3ab-08fd-49d7-bfd1-fe05e553f70d
+      71611943-da7e-408e-8a24-990f07405c3c
+      72512a19-7e65-4baa-b6fa-edf6d9499183
+      72726be4-5c89-43a8-ba24-2659550eddb4
+      7340218b-afcd-416c-bec6-1092627a89e0
+      7380e94a-37e9-474a-8aeb-700311bbb7f4
+      73d00bd7-b6c4-4f85-a40c-b176ff15308f
+      765aac9e-5a93-4a1c-b5c2-f33ccf52f62e
+      770f35c2-9168-4e1d-8af0-4d456351d019
+      772518ce-960b-471f-bb8f-215f8c59ed71
+      777e875c-8129-4e66-a19e-170b646554d6
+      778e9ede-ecec-44d3-a2a4-f623dcf1a3d3
+      79bc1ff1-aa5d-45bb-9732-59245c206811
+      7b2edd4c-ab12-4af9-9a9a-751818815070
+      7bcd9234-06e7-4662-9bd1-99409d3a3524
+      7bda45ae-9ae1-44af-b080-27c2d82355c8
+      7d679d0b-9e4a-4cc2-9192-660195909da5
+      7e354ca6-2ae3-41e7-a0d6-5561b07f3bf0
+      7f960340-eeff-4707-bfff-ed6b52012541
+      7fae51f2-7e2c-4742-8293-3613fd82a668
+      80e2f152-9065-4116-8972-811e1fe07163
+      8134c270-17e6-4769-9895-174b0d9ae43f
+      823fba68-951a-4a0b-89f9-8860710065c1
+      825d061b-4f1d-4224-a539-bb186ef1bcc2
+      83436332-42ad-405b-8ef2-23414787051a
+      837c056c-7cc1-4807-b0a7-2cc725abc308
+      86436492-71e8-4727-b2cb-b494569e4cc4
+      8688f4cc-63b3-470c-a867-10431b5f7415
+      86b57367-6cef-4e1e-a6d7-98046a9ba26a
+      87952e35-b6f0-4cac-82b0-dc1d8f439c90
+      889f8ca4-f283-4e8f-8633-141856de1324
+      88e81bec-e272-44f3-b31c-3e45f9cdf213
+      8971e0e9-6db9-4b75-9c35-92d93cba15e4
+      8c470d61-5edb-4ada-8cbd-d8475577b03c
+      8dce02c8-ec49-4dcb-a397-2a8bf182b4f6
+      9013ee0d-36b7-456c-808a-9fe0eeaa43d1
+      913abe22-3858-4f05-9323-bea8f6482434
+      91786095-e947-4518-9f3e-5712e489fbd1
+      927cfb72-29eb-4f50-802a-4ca75803d23c
+      953fe833-f13d-44e0-9c98-56fe2e297784
+      963422fb-a97d-4346-bd39-58641ca89915
+      975045df-ad1c-433f-9347-6dda18e74884
+      988b982c-f38d-4f68-8bc6-b6e97c4194bf
+      98b5c860-5b2c-4249-883c-db32231c91e9
+      992f14bf-0241-4db9-b16c-7bb6740e3eba
+      9a8ea37c-5a47-45a8-9d3f-4b85583d5c23
+      9b58c7d0-16ec-4447-9e26-57193d03dc91
+      9bb5b6b4-8292-448a-bc71-3abcc9c15e8a
+      9e7d986a-3054-4981-ae4f-1321e92f34f2
+      9e92dce2-cc2e-4b32-ae21-6ba1c293e4b7
+      9f0af323-becc-4056-af52-50b8d3ca733d
+      9f2b3099-436a-4bed-affc-f62ead470d00
+      a11e01ac-0189-48a6-888d-db3c8100b02c
+      a1352bf0-c3c7-4ec3-8ba8-b58f1898b0d5
+      a15ffa3d-471f-435b-85dd-a33679a61bb3
+      a47e23e7-a862-4941-a2f8-e141aee37da4
+      a5684f42-3d11-407f-9254-13e4b017f4a1
+      a6c69605-2184-49c8-8476-fe633819f7b1
+      a6cd1e46-e673-44af-a23c-111879eeffac
+      a8c96268-d96d-45e0-9688-77e341e2debb
+      ab150e50-71e8-4f9d-9a31-ae54a8d61398
+      ab41b3ff-1e3c-4b48-ba96-c49ff91a3249
+      ab73d21d-26f4-4d32-9835-b69bd6b858c7
+      abb7ce2c-e504-406d-b04e-f5d9e1265f9d
+      ac0a9874-9a49-4b1f-af1e-dab94ca86a22
+      ae499025-5e83-4d00-bd0e-f234a6733c94
+      b1014f6b-db74-40b2-8c35-bb6eadfce15e
+      b1e5ee5a-f787-436b-ad02-4cee548d26ba
+      b38b0a2d-038f-4b8e-821c-ada99fede543
+      b4cd5dd7-c660-41be-b1bf-de1ca2422434
+      b6c67f4e-34d7-4b64-91b4-6e09bcf87a6d
+      b6c6b20d-07b0-47b4-bcb7-27336662af71
+      b6c83230-60a2-49ad-a222-21bb76ce9489
+      b7251c72-16b7-4a16-ac76-ec0d15211cb8
+      b81caab1-d554-4225-b785-2d6735a4b63c
+      b8f33231-d7f5-4335-8289-ee8c2cbcd5ef
+      b95c2877-89cc-46b6-b6a7-e903d10f7304
+      ba95558a-3344-400d-baac-6e0795f6ce52
+      bab13dad-8ff1-4494-bdd1-8e28b8a436e4
+      bae1a9fa-6532-414d-a17e-03ad2b9460f6
+      bb37e092-f96c-4b86-9c92-f72a928e63db
+      bd1f47f6-986a-4e01-90ca-0f0cd83ef525
+      bf885b1c-4f83-4b2c-bd84-60cdaafc6ae0
+      c00614a6-f407-4ee3-b9cc-43904762ebfe
+      c0080c81-58fd-45cc-b4e6-f7d26003f59e
+      c00f66db-273e-4271-9ee5-e50d10646f10
+      c021a869-c14c-495f-9012-2da311661768
+      c08ce1aa-64fd-46b8-8dd8-702cbc23037d
+      c102127f-7e73-4213-b4eb-3db6022f3ec4
+      c11a8940-51f7-42b6-b06c-9ced5dabed29
+      c193a819-257d-45ef-a399-73e13e0895d5
+      c2381c1a-7b2d-4405-bf2b-dfb98f94c31d
+      c3160c21-72f3-4970-8253-138bc15d524b
+      c3589b5a-0d08-4180-ae3f-92797ef7c4c2
+      c3b611a1-8052-4bf6-8e97-984349cba8d6
+      c451f7c0-2f91-4e69-8758-996005b3785e
+      c46c262a-4cee-4e7a-82fc-6c95d3867dc3
+      c4f0be51-953c-4f01-8c3f-74d193116cc3
+      c7c6c4a7-710a-4ca1-82b0-a29fc01da512
+      c7ed38b9-8c57-4265-ab63-7b50504a289e
+      c8eb1067-c13d-4b80-aad5-c5c7686102b7
+      c943188e-67a1-4ef7-8700-2be3c2b28d05
+      cb009cc1-93bf-4cc3-a1fa-4125402a4bff
+      cb4bd9aa-fe1c-4b53-b2b2-903f051686fc
+      cc11198a-03dc-4f5a-8ba5-fbcc06869cee
+      cde1f5ea-d044-4e23-9c05-4d56eb62d080
+      ce1b2e97-3bb3-42a8-8c0e-dc6b084af07b
+      cfd121d0-e8d4-4a7d-9ecf-3c5cad81af79
+      d0e862ad-6666-4c77-8f26-76b68e9ae211
+      d173f75f-eadf-4f75-a38f-d8cbaa876f93
+      d24f6a90-eaca-4ace-a4b4-e14a5454532a
+      d5340b3e-146f-4275-bc0a-75c7f0bf6253
+      d79a475b-9698-48ea-aeea-a89c8cb7fe90
+      d85a99ed-f394-4f77-85f7-0792ee359a02
+      d8e9b49d-67ae-4232-9b41-ce999ac60fb8
+      d98f2c3e-b42e-4965-bb31-60deac983a6a
+      dab93b45-08ad-4f52-9815-d7172f7d9704
+      dbedb0e9-dc5b-4e52-ae30-dccb39c9175a
+      dd572ddf-de90-4678-9719-a79060e139e2
+      de058b7f-9bf9-4f2d-9926-111892c842ce
+      de242564-0da7-428d-a373-811786faa9df
+      de2f4b22-c4bb-4fb0-8e39-7d0a0cd9a12d
+      de999fc3-07cc-4d64-960d-b70c8bd1a2df
+      df9321df-d911-4415-b252-f541d03a775b
+      e01934a6-e1b4-4347-954c-221b2aa3068b
+      e0e0ad32-b771-48e9-8927-dad337819f53
+      e375defd-0f2f-4071-82f2-ba5b1f347210
+      e391904e-b318-4b16-b340-28bf611b5dd8
+      e5972877-3c4a-4959-be98-61102c65757b
+      e5c4053b-ada7-4d62-b551-292f16785867
+      e5db2538-0b57-40b9-bc5e-fc38d514eaac
+      e6cb5f13-d736-4dc8-a276-1b4b002fff10
+      e762ef1d-95fe-4b3c-b77e-fc6a91748a80
+      e86885a3-7030-4fef-9a09-221021f0043e
+      e871f22d-28f5-4f51-ac4c-52abc3ee5dd0
+      e8ad9c2e-ba3d-4bbf-b500-d591d9f6a300
+      e8d2ebd5-ed43-4966-b11e-09a72bca23bf
+      ea961a98-e78a-4ab4-8243-bac104b9075e
+      eafbce64-59ac-4ea2-8c01-9aa695dffada
+      eb3af54e-e68a-48ed-bdde-6064d3fc0185
+      ecaa5463-7618-473f-a34a-878297909e83
+      ed01163a-06c2-49e1-958c-4810f1d31cba
+      ee8caace-2b88-4ab9-a025-f6456ec1ff68
+      ef31535c-3677-47ff-bc0c-b8424eaa1802
+      f1e7a59b-2529-4c23-95e9-9778e5ff4edb
+      f5c323e9-2125-46a4-a8f3-dc1e2371d741
+      f5e3fd6c-b4c6-4266-b795-3c0112f80fef
+      f9c2a45f-5ef5-43ff-bc89-5902a7d0d32e
+      fb6608e7-6429-4f18-8f2b-19b8a34e8540
+      fb8fdd46-5d90-4b9c-b3c1-48252a8372e4
+      fd3018e3-5bd5-40ff-a764-c5c94fccc362
+      fdce454e-4380-4158-b01a-5fc755509472
+      ffbc7b9e-76e1-4db1-b134-25ddde90510d
+      fff98634-f09e-45d0-bf35-bb5aa2ea8730
+    )
+  )
+)
