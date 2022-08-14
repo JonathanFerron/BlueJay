@@ -2000,23 +2000,6 @@
     (pin "1" (uuid 2f263ca5-81a1-4827-9f81-de76e316a588))
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 167.64 152.4 0) (unit 1)
-    (in_bom no) (on_board yes) (fields_autoplaced)
-    (uuid 2f72a678-d445-4b98-b401-be2796bd34c3)
-    (property "Reference" "H9" (id 0) (at 170.18 151.1299 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "M2" (id 1) (at 170.18 153.6699 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (id 2) (at 167.64 152.4 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 167.64 152.4 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-  )
-
   (symbol (lib_id "BlueJaySymbolLibrary:Switch_SW_Push") (at 195.58 91.44 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 30acf6c0-02aa-43ff-8d5f-c9aed62c2ddf)
@@ -3307,9 +3290,6 @@
     )
     (path "/ef6bf8a6-53c5-40a0-b55f-f0f6022fe6b3"
       (reference "H8") (unit 1) (value "M2") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
-    )
-    (path "/2f72a678-d445-4b98-b401-be2796bd34c3"
-      (reference "H9") (unit 1) (value "M2") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
     )
     (path "/36a90cbb-ec70-4202-aacd-9cf629bac560"
       (reference "J2") (unit 1) (value "SJ-43514") (footprint "BlueJay footprints:CUI_SJ-43514")

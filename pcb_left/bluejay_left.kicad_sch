@@ -2131,6 +2131,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid adbf0333-33bb-46bd-bed6-19409732f027)
   )
+  (text "Ground some mounting holes so as to ground \nmain pcb to plate and base."
+    (at 208.28 177.8 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c54ce6f7-5049-411d-a4f2-b46ffabe2593)
+  )
 
   (label "i2c_SCL" (at 53.34 160.02 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -3366,23 +3371,6 @@
     (pin "1" (uuid 77adb035-c136-421d-8ede-17ae45c255d7))
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 257.81 154.94 0) (unit 1)
-    (in_bom no) (on_board yes) (fields_autoplaced)
-    (uuid 88babb1f-a86c-44c4-9ecd-f3e8d1f4aef4)
-    (property "Reference" "H9" (id 0) (at 260.35 153.6699 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "M2" (id 1) (at 260.35 156.2099 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (id 2) (at 257.81 154.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 257.81 154.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-  )
-
   (symbol (lib_id "Diode_AKL:1N4148") (at 162.56 99.06 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 88d3598b-5e3a-4bb5-9b11-66b86f00a76e)
@@ -4252,9 +4240,6 @@
     )
     (path "/a73aae4f-b04b-4d16-8b11-ca3d57da8772"
       (reference "H8") (unit 1) (value "M2") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
-    )
-    (path "/88babb1f-a86c-44c4-9ecd-f3e8d1f4aef4"
-      (reference "H9") (unit 1) (value "M2") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
     )
     (path "/36a90cbb-ec70-4202-aacd-9cf629bac560"
       (reference "J1") (unit 1) (value "SJ-43514") (footprint "BlueJay footprints:CUI_SJ-43514")

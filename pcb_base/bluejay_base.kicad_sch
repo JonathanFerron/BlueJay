@@ -283,23 +283,6 @@
     (pin "1" (uuid fea54f92-e19f-4e0d-930f-54761d77b58c))
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 162.56 100.33 0) (unit 1)
-    (in_bom no) (on_board yes) (fields_autoplaced)
-    (uuid 88babb1f-a86c-44c4-9ecd-f3e8d1f4aef4)
-    (property "Reference" "H9" (id 0) (at 165.1 99.0599 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "M2" (id 1) (at 165.1 101.5999 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (id 2) (at 162.56 100.33 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 162.56 100.33 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-  )
-
   (symbol (lib_id "Mechanical:MountingHole") (at 152.4 100.33 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 8ff55002-cb98-4e23-b57e-209cc7ec712a)
@@ -418,9 +401,6 @@
     )
     (path "/a73aae4f-b04b-4d16-8b11-ca3d57da8772"
       (reference "H8") (unit 1) (value "M2") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
-    )
-    (path "/88babb1f-a86c-44c4-9ecd-f3e8d1f4aef4"
-      (reference "H9") (unit 1) (value "M2") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
     )
   )
 )
