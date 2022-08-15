@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 44,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -54,8 +54,8 @@
       34,
       35
     ],
-    "visible_layers": "0001030_80000001",
-    "zone_display_mode": 0
+    "visible_layers": "0001000_00000000",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "bluejay_right.kicad_prl",
