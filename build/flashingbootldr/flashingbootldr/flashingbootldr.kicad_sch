@@ -566,7 +566,7 @@
     (property "Reference" "C1" (id 0) (at 242.57 74.3838 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C_Polarized_Small" (id 1) (at 242.57 76.9238 0)
+    (property "Value" "10u" (id 1) (at 242.57 76.9238 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (id 2) (at 240.03 76.2 0)
@@ -588,7 +588,7 @@
       (reference "A1") (unit 1) (value "Arduino_UNO_R3") (footprint "Module:Arduino_UNO_R3")
     )
     (path "/e158f13d-5c0b-45f6-891f-0ce1aff2290a"
-      (reference "C1") (unit 1) (value "C_Polarized_Small") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+      (reference "C1") (unit 1) (value "10u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/7c87ef67-9e40-4b3f-8eaf-78a4e3eed88d"
       (reference "U1") (unit 1) (value "ATmega328P-P") (footprint "Package_DIP:DIP-28_W7.62mm")
