@@ -27,7 +27,7 @@ You may need to change the port to your Arduino in the Makefile.inc. Replace the
 
 Make sure to save your changes before continuing.
 
-Open a QMK MSYS terminal and navigate to your USBaspLoader (torn branch) folder and  at that location. Flash the bootloader using:
+Open a QMK MSYS terminal and navigate to your USBaspLoader (bluejay branch) folder and  at that location. Flash the bootloader using:
 
     make
     make flash
