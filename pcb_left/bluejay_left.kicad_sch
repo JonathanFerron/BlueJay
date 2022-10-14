@@ -2149,7 +2149,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid adbf0333-33bb-46bd-bed6-19409732f027)
   )
-  (text "Ground some mounting holes so as to ground \nmain pcb to plate and base."
+  (text "Ground some mounting holes so as to ground \nmain pcb to base."
     (at 208.28 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c54ce6f7-5049-411d-a4f2-b46ffabe2593)
