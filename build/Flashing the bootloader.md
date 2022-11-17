@@ -1,10 +1,12 @@
 Flashing the bootloader
 
-Downloading the bootloader
-Download the USBaspLoader source code from https://github.com/rtitmuss/USBaspLoader/tree/torn. This can be done directly from Git Hub Desktop.
-
 Arduino Uno as ISP
-Program the Arduino Uno as an ISP, as described in Load the Sketch at https://www.arduino.cc/en/Tutorial/ArduinoISP#toc5. See hand written instructions.
+- Lead ArduinoISP sketch (from file -> examples)
+- tools -> board -> Arduino Uno
+- tools -> port -> COM6 (Arduino Uno)
+- compile
+- verify
+- upload sketch to Uno (programmer)
 
 Wiring the programmer
 Use an Arduino Uno to program the AtMega328P on a breadboard. You need to connect the following pins. See pinout diagrams for the ISP header on the Arduino Uno and the ATMega328P pinout diagram.
@@ -18,6 +20,9 @@ ISP Pin 6 - Gnd 		Pin 8 and 22 - GND
 Digital Pin 10 			Pin 1 - Reset
 
 The Arduino Uno board needs a 10µF electrolytic capacitor connected to RESET and GND with the positive (long leg) connected to RESET. The capacitor has to be placed after the programmer board has been loaded with the ISP sketch.
+
+Downloading the bootloader
+Download the USBaspLoader source code from https://github.com/rtitmuss/USBaspLoader/tree/torn. This can be done directly from Git Hub Desktop.
 
 Flashing
 
