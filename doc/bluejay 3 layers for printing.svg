@@ -24,15 +24,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.89571165"
-     inkscape:cx="514.11635"
-     inkscape:cy="394.65826"
+     inkscape:zoom="1.2667276"
+     inkscape:cx="470.5037"
+     inkscape:cy="660.36299"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
-     inkscape:window-x="2552"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g576" />
+     inkscape:current-layer="g3145" />
   <style
      type="text/css"
      id="style2">
@@ -917,7 +917,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect216" />
+         id="rect216"
+         style="stroke:none;stroke-opacity:1" />
       <!-- Inner Border -->
       <rect
          x="7"
@@ -2774,7 +2775,8 @@
     <g
        class="keycap"
        id="g2775"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="271"
@@ -2784,7 +2786,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2767" />
+         id="rect2767"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="271"
@@ -2793,26 +2796,10 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2769" />
+         id="rect2769"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="277"
-         y="37.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2771" />
       <!-- Inner Fill -->
-      <rect
-         x="277"
-         y="37.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2773" />
     </g>
     <g
        class="keycap"
@@ -2860,7 +2847,8 @@
     <g
        class="keycap"
        id="g2795"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="55"
@@ -2870,7 +2858,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2787" />
+         id="rect2787"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="55"
@@ -2879,26 +2868,10 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2789" />
+         id="rect2789"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="61"
-         y="51.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2791" />
       <!-- Inner Fill -->
-      <rect
-         x="61"
-         y="51.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2793" />
     </g>
     <g
        class="keycap"
@@ -2946,7 +2919,8 @@
     <g
        class="keycap"
        id="g2815"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="163"
@@ -2956,7 +2930,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2807" />
+         id="rect2807"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="163"
@@ -2965,31 +2940,16 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2809" />
+         id="rect2809"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="169"
-         y="64.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2811" />
       <!-- Inner Fill -->
-      <rect
-         x="169"
-         y="64.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2813" />
     </g>
     <g
        class="keycap"
        id="g2825"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="649"
@@ -2999,7 +2959,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2817" />
+         id="rect2817"
+         style="stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="649"
@@ -3008,31 +2969,16 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2819" />
+         id="rect2819"
+         style="stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="655"
-         y="64.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2821" />
       <!-- Inner Fill -->
-      <rect
-         x="655"
-         y="64.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2823" />
     </g>
     <g
        class="keycap"
        id="g2835"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="109"
@@ -3042,7 +2988,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2827" />
+         id="rect2827"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="109"
@@ -3051,31 +2998,16 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2829" />
+         id="rect2829"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="115"
-         y="85"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2831" />
       <!-- Inner Fill -->
-      <rect
-         x="115"
-         y="85"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2833" />
     </g>
     <g
        class="keycap"
        id="g2845"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="217"
@@ -3085,7 +3017,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2837" />
+         id="rect2837"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="217"
@@ -3094,31 +3027,16 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2839" />
+         id="rect2839"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="223"
-         y="85"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2841" />
       <!-- Inner Fill -->
-      <rect
-         x="223"
-         y="85"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2843" />
     </g>
     <g
        class="keycap"
        id="g2855"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="595"
@@ -3128,7 +3046,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2847" />
+         id="rect2847"
+         style="stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="595"
@@ -3137,26 +3056,10 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2849" />
+         id="rect2849"
+         style="stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="601"
-         y="85"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2851" />
       <!-- Inner Fill -->
-      <rect
-         x="601"
-         y="85"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2853" />
     </g>
     <g
        class="keycap"
@@ -3333,7 +3236,8 @@
     <g
        class="keycap"
        id="g2905"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="55"
@@ -3343,7 +3247,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2897" />
+         id="rect2897"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="55"
@@ -3352,26 +3257,10 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2899" />
+         id="rect2899"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="61"
-         y="105.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2901" />
       <!-- Inner Fill -->
-      <rect
-         x="61"
-         y="105.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2903" />
     </g>
     <g
        class="keycap"
@@ -3419,7 +3308,8 @@
     <g
        class="keycap"
        id="g2925"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="811"
@@ -3429,7 +3319,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect2917" />
+         id="rect2917"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="811"
@@ -3438,7 +3329,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect2919" />
+         id="rect2919"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
       <rect
          x="817"
@@ -3448,7 +3340,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect2921" />
+         id="rect2921"
+         style="stroke:#ff6600" />
       <!-- Inner Fill -->
       <rect
          x="817"
@@ -3457,13 +3350,14 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect2923" />
+         id="rect2923"
+         style="stroke:#ff6600" />
     </g>
     <g
        class="keycap"
        id="g2935"
        transform="translate(6.6899811,353.9811)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="163"
@@ -3474,7 +3368,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect2927"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="163"
@@ -3484,34 +3378,15 @@
          rx="5"
          fill="#dddddd"
          id="rect2929"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="169"
-         y="118.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect2931"
-         style="fill:#ffffff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="169"
-         y="118.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect2933"
-         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        class="keycap"
        id="g2945"
        transform="translate(6.6899811,353.9811)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="649"
@@ -3522,7 +3397,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect2937"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="649"
@@ -3532,34 +3407,15 @@
          rx="5"
          fill="#dddddd"
          id="rect2939"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="655"
-         y="118.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect2941"
-         style="fill:#ffffff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="655"
-         y="118.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect2943"
-         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        class="keycap"
        id="g2955"
        transform="translate(6.6899811,353.9811)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="109"
@@ -3570,7 +3426,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect2947"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="109"
@@ -3580,34 +3436,15 @@
          rx="5"
          fill="#dddddd"
          id="rect2949"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="115"
-         y="139"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect2951"
-         style="fill:#ffffff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="115"
-         y="139"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect2953"
-         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        class="keycap"
        id="g2965"
        transform="translate(6.6899811,353.9811)"
-       style="fill:#ffffff">
+       style="fill:#ffffff;stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="217"
@@ -3618,7 +3455,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect2957"
-         style="fill:#ffffff" />
+         style="fill:#ffffff;stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="217"
@@ -3628,34 +3465,15 @@
          rx="5"
          fill="#dddddd"
          id="rect2959"
-         style="fill:#ffffff" />
+         style="fill:#ffffff;stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="223"
-         y="139"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect2961"
-         style="fill:#ffffff" />
       <!-- Inner Fill -->
-      <rect
-         x="223"
-         y="139"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect2963"
-         style="fill:#ffffff" />
     </g>
     <g
        class="keycap"
        id="g2975"
        transform="translate(6.6899811,353.9811)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="595"
@@ -3666,7 +3484,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect2967"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="595"
@@ -3676,34 +3494,15 @@
          rx="5"
          fill="#dddddd"
          id="rect2969"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="601"
-         y="139"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect2971"
-         style="fill:#ffffff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="601"
-         y="139"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect2973"
-         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        class="keycap"
        id="g2985"
        transform="translate(6.6899811,353.9811)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="703"
@@ -3714,7 +3513,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect2977"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="703"
@@ -3724,28 +3523,9 @@
          rx="5"
          fill="#dddddd"
          id="rect2979"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="709"
-         y="139"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect2981"
-         style="fill:#ffffff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="709"
-         y="139"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect2983"
-         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        class="keycap"
@@ -3880,7 +3660,7 @@
        class="keycap"
        id="g3025"
        transform="translate(6.6899811,353.9811)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="55"
@@ -3891,7 +3671,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect3017"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="55"
@@ -3901,28 +3681,9 @@
          rx="5"
          fill="#dddddd"
          id="rect3019"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="61"
-         y="159.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect3021"
-         style="fill:#ffffff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="61"
-         y="159.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect3023"
-         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        class="keycap"
@@ -3976,7 +3737,7 @@
        class="keycap"
        id="g3045"
        transform="translate(6.6899811,353.9811)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="811"
@@ -3987,7 +3748,7 @@
          fill="#ffffff"
          class="outer border"
          id="rect3037"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="811"
@@ -3997,7 +3758,7 @@
          rx="5"
          fill="#ffffff"
          id="rect3039"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Inner Border -->
       <rect
          x="817"
@@ -4008,7 +3769,7 @@
          fill="#fffffe"
          class="inner border"
          id="rect3041"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Inner Fill -->
       <rect
          x="817"
@@ -4018,12 +3779,13 @@
          rx="5"
          fill="#fffffe"
          id="rect3043"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
     </g>
     <g
        class="keycap"
        id="g3055"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="163"
@@ -4033,7 +3795,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect3047" />
+         id="rect3047"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="163"
@@ -4042,26 +3805,10 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect3049" />
+         id="rect3049"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="169"
-         y="172.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect3051" />
       <!-- Inner Fill -->
-      <rect
-         x="169"
-         y="172.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect3053" />
     </g>
     <g
        class="keycap"
@@ -4109,7 +3856,8 @@
     <g
        class="keycap"
        id="g3075"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="109"
@@ -4119,7 +3867,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect3067" />
+         id="rect3067"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="109"
@@ -4128,31 +3877,16 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect3069" />
+         id="rect3069"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="115"
-         y="193"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect3071" />
       <!-- Inner Fill -->
-      <rect
-         x="115"
-         y="193"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect3073" />
     </g>
     <g
        class="keycap"
        id="g3085"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="217"
@@ -4162,7 +3896,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect3077" />
+         id="rect3077"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="217"
@@ -4171,31 +3906,16 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect3079" />
+         id="rect3079"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="223"
-         y="193"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect3081" />
       <!-- Inner Fill -->
-      <rect
-         x="223"
-         y="193"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect3083" />
     </g>
     <g
        class="keycap"
        id="g3095"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="595"
@@ -4205,7 +3925,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect3087" />
+         id="rect3087"
+         style="stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="595"
@@ -4214,26 +3935,10 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect3089" />
+         id="rect3089"
+         style="stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="601"
-         y="193"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect3091" />
       <!-- Inner Fill -->
-      <rect
-         x="601"
-         y="193"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect3093" />
     </g>
     <g
        class="keycap"
@@ -4410,7 +4115,8 @@
     <g
        class="keycap"
        id="g3145"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="55"
@@ -4420,7 +4126,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect3137" />
+         id="rect3137"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="55"
@@ -4429,26 +4136,10 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect3139" />
+         id="rect3139"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="61"
-         y="213.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect3141" />
       <!-- Inner Fill -->
-      <rect
-         x="61"
-         y="213.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect3143" />
     </g>
     <g
        class="keycap"
@@ -4496,7 +4187,8 @@
     <g
        class="keycap"
        id="g3165"
-       transform="translate(6.6899811,353.9811)">
+       transform="translate(6.6899811,353.9811)"
+       style="stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="811"
@@ -4506,7 +4198,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect3157" />
+         id="rect3157"
+         style="stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="811"
@@ -4515,7 +4208,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect3159" />
+         id="rect3159"
+         style="stroke:#ff6600" />
       <!-- Inner Border -->
       <rect
          x="817"
@@ -4525,7 +4219,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect3161" />
+         id="rect3161"
+         style="stroke:#ff6600" />
       <!-- Inner Fill -->
       <rect
          x="817"
@@ -4534,7 +4229,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect3163" />
+         id="rect3163"
+         style="stroke:#ff6600" />
     </g>
     <g
        class="keycap"
@@ -4759,7 +4455,8 @@
     <g
        class="keycap"
        transform="rotate(-42,1125.9211,708.27655)"
-       id="g3225">
+       id="g3225"
+       style="stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="622"
@@ -4769,7 +4466,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect3217" />
+         id="rect3217"
+         style="stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="622"
@@ -4778,32 +4476,16 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect3219" />
+         id="rect3219"
+         style="stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect3221" />
       <!-- Inner Fill -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect3223" />
     </g>
     <g
        class="keycap"
        transform="rotate(-28,1374.7153,703.57453)"
        id="g3235"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="622"
@@ -4814,7 +4496,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect3227"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="622"
@@ -4824,28 +4506,9 @@
          rx="5"
          fill="#dddddd"
          id="rect3229"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect3231"
-         style="fill:#ffffff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect3233"
-         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        class="keycap"
@@ -4893,7 +4556,8 @@
     <g
        class="keycap"
        id="g42-4"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="163"
@@ -4903,7 +4567,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect34-4" />
+         id="rect34-4"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="163"
@@ -4912,7 +4577,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect36-7" />
+         id="rect36-7"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="169"
@@ -4922,7 +4588,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect38-8" />
+         id="rect38-8"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="169"
@@ -4931,12 +4598,14 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect40-6" />
+         id="rect40-6"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
        id="g52-0"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="649"
@@ -4946,7 +4615,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect44-0" />
+         id="rect44-0"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="649"
@@ -4955,7 +4625,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect46-9" />
+         id="rect46-9"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="655"
@@ -4965,7 +4636,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect48-8" />
+         id="rect48-8"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="655"
@@ -4974,12 +4646,14 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect50-1" />
+         id="rect50-1"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
        id="g62-6"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="109"
@@ -4989,7 +4663,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect54-1" />
+         id="rect54-1"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="109"
@@ -4998,7 +4673,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect56-0" />
+         id="rect56-0"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="115"
@@ -5008,7 +4684,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect58-9" />
+         id="rect58-9"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="115"
@@ -5017,12 +4694,14 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect60-4" />
+         id="rect60-4"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
        id="g72-6"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="217"
@@ -5032,7 +4711,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect64-1" />
+         id="rect64-1"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="217"
@@ -5041,7 +4721,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect66-6" />
+         id="rect66-6"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="223"
@@ -5051,7 +4732,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect68-1" />
+         id="rect68-1"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="223"
@@ -5060,7 +4742,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect70-1" />
+         id="rect70-1"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -5223,7 +4906,8 @@
     <g
        class="keycap"
        id="g122-4"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="55"
@@ -5233,7 +4917,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect114-0" />
+         id="rect114-0"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="55"
@@ -5242,7 +4927,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect116-8" />
+         id="rect116-8"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="61"
@@ -5252,7 +4938,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect118-6" />
+         id="rect118-6"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="61"
@@ -5261,12 +4948,14 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect120-9" />
+         id="rect120-9"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
        id="g132-4"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="757"
@@ -5276,7 +4965,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect124-7" />
+         id="rect124-7"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="757"
@@ -5285,7 +4975,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect126-9" />
+         id="rect126-9"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="763"
@@ -5295,7 +4986,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect128-9" />
+         id="rect128-9"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="763"
@@ -5304,7 +4996,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect130-7" />
+         id="rect130-7"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -5424,7 +5117,8 @@
     <g
        class="keycap"
        id="g172-0"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="217"
@@ -5434,7 +5128,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect164-4" />
+         id="rect164-4"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="217"
@@ -5443,7 +5138,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect166-9" />
+         id="rect166-9"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="223"
@@ -5453,7 +5149,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect168-7" />
+         id="rect168-7"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="223"
@@ -5462,7 +5159,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect170-4" />
+         id="rect170-4"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -5525,7 +5223,8 @@
     <g
        class="keycap"
        id="g202-5"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="271"
@@ -5535,7 +5234,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect194-0" />
+         id="rect194-0"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="271"
@@ -5544,7 +5244,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect196-9" />
+         id="rect196-9"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="277"
@@ -5554,7 +5255,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect198-1" />
+         id="rect198-1"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="277"
@@ -5563,7 +5265,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect200-1" />
+         id="rect200-1"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -6014,7 +5717,8 @@
     <g
        class="keycap"
        id="g322-2"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="271"
@@ -6024,7 +5728,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect314-9" />
+         id="rect314-9"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="271"
@@ -6033,7 +5738,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect316-6" />
+         id="rect316-6"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="277"
@@ -6043,7 +5749,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect318-4" />
+         id="rect318-4"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="277"
@@ -6052,7 +5759,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect320-1" />
+         id="rect320-1"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -6350,7 +6058,8 @@
     <g
        class="keycap"
        id="g412-7"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="217"
@@ -6360,7 +6069,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect404-2" />
+         id="rect404-2"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="217"
@@ -6369,7 +6079,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect406-1" />
+         id="rect406-1"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="223"
@@ -6379,7 +6090,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect408-9" />
+         id="rect408-9"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="223"
@@ -6388,7 +6100,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect410-0" />
+         id="rect410-0"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -6451,7 +6164,8 @@
     <g
        class="keycap"
        id="g442-1"
-       transform="translate(5.6887043,709.25326)">
+       transform="translate(5.6887043,709.25326)"
+       style="stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="271"
@@ -6461,7 +6175,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect434-6" />
+         id="rect434-6"
+         style="stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="271"
@@ -6470,7 +6185,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect436-4" />
+         id="rect436-4"
+         style="stroke:#008000" />
       <!-- Inner Border -->
       <rect
          x="277"
@@ -6480,7 +6196,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect438-1" />
+         id="rect438-1"
+         style="stroke:#008000" />
       <!-- Inner Fill -->
       <rect
          x="277"
@@ -6489,7 +6206,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect440-5" />
+         id="rect440-5"
+         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -6797,7 +6515,7 @@
        class="keycap"
        transform="rotate(28,-1216.9853,906.03469)"
        id="g532-0"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1;stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="190"
@@ -6808,7 +6526,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect524-2"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="190"
@@ -6818,28 +6536,9 @@
          rx="5"
          fill="#dddddd"
          id="rect526-4"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="196"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect528-9"
-         style="fill:#ffffff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="196"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect530-7"
-         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        class="keycap"
@@ -7115,5 +6814,175 @@
          id="tspan21617"
          x="170.18344"
          y="97.432655">copy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="246.09225"
+       y="527.5871"
+       id="text18901-0"><tspan
+         sodipodi:role="line"
+         id="tspan18899-5"
+         x="246.09225"
+         y="527.5871">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="624.23199"
+       y="529.16595"
+       id="text18901-7"><tspan
+         sodipodi:role="line"
+         id="tspan18899-6"
+         x="624.23199"
+         y="529.16595">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="246.8817"
+       y="883.62262"
+       id="text18901-2"><tspan
+         sodipodi:role="line"
+         id="tspan18899-54"
+         x="246.8817"
+         y="883.62262">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="622.65308"
+       y="885.20148"
+       id="text18901-29"><tspan
+         sodipodi:role="line"
+         id="tspan18899-58"
+         x="622.65308"
+         y="885.20148">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="542.9201"
+       y="692.57916"
+       id="text18901-6"><tspan
+         sodipodi:role="line"
+         id="tspan18899-4"
+         x="542.9201"
+         y="692.57916">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="329.77246"
+       y="1047.0359"
+       id="text18901-8"><tspan
+         sodipodi:role="line"
+         id="tspan18899-44"
+         x="329.77246"
+         y="1047.0359">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="540.55182"
+       y="1047.0358"
+       id="text18901-73"><tspan
+         sodipodi:role="line"
+         id="tspan18899-3"
+         x="540.55182"
+         y="1047.0358">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="287.80939"
+       y="233.21559"
+       id="text3850"><tspan
+         sodipodi:role="line"
+         id="tspan3848"
+         x="287.80939"
+         y="233.21559">pst</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="242.02211"
+       y="226.11066"
+       id="text4774"><tspan
+         sodipodi:role="line"
+         id="tspan4772"
+         x="242.02211"
+         y="226.11066">ç</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="172.55174"
+       y="206.37479"
+       id="text4880"><tspan
+         sodipodi:role="line"
+         id="tspan4878"
+         x="172.55174"
+         y="206.37479">redo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="123.60673"
+       y="226.90012"
+       id="text5808"><tspan
+         sodipodi:role="line"
+         id="tspan5806"
+         x="123.60673"
+         y="226.90012">cut</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="62.820175"
+       y="246.63602"
+       id="text5914"><tspan
+         sodipodi:role="line"
+         id="tspan5912"
+         x="62.820175"
+         y="246.63602">undo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="17.032904"
+       y="247.42546"
+       id="text6020"><tspan
+         sodipodi:role="line"
+         id="tspan6018"
+         x="17.032904"
+         y="247.42546">~   `</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="200.97142"
+       y="301.89651"
+       id="text11412"><tspan
+         sodipodi:role="line"
+         id="tspan11410"
+         x="200.97142"
+         y="301.89651">f4 f2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="590.23859"
+       y="329.68542"
+       id="text12348"><tspan
+         sodipodi:role="line"
+         id="tspan12346"
+         x="590.23859"
+         y="329.68542">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="583.13367"
+       y="302.05518"
+       id="text12454"><tspan
+         sodipodi:role="line"
+         id="tspan12452"
+         x="583.13367"
+         y="302.05518">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="646.28851"
+       y="303.63403"
+       id="text12560"><tspan
+         sodipodi:role="line"
+         id="tspan12558"
+         x="646.28851"
+         y="303.63403">=</tspan></text>
   </g>
 </svg>
