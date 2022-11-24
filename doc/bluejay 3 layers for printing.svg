@@ -7,7 +7,7 @@
    id="svg578"
    sodipodi:docname="bluejay 3 layers for printing.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   inkscape:export-filename="C:\Users\Jonathan\Documents\ergo kb\BlueJay\github\BlueJay\doc\bluejay-prototype-v4---both-hands.png"
+   inkscape:export-filename="C:\Users\Jonathan\Desktop\bluejay keymap for printing.png"
    inkscape:export-xdpi="95.889999"
    inkscape:export-ydpi="95.889999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,14 +25,14 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.2667276"
-     inkscape:cx="470.5037"
-     inkscape:cy="660.36299"
+     inkscape:cx="470.10896"
+     inkscape:cy="470.8984"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3145" />
+     inkscape:current-layer="g576" />
   <style
      type="text/css"
      id="style2">
@@ -112,6 +112,34 @@
     <radialGradient
        id="SA"
        xlink:href="#DSA" />
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-2"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-8"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <g
      transform="translate(-5,-11.75)"
@@ -1360,7 +1388,7 @@
        class="  keycap"
        id="g322"
        transform="translate(5,5)"
-       style="fill:none">
+       style="fill:#d40000">
       <!-- Outer Border -->
       <rect
          x="271"
@@ -1371,7 +1399,7 @@
          fill="#ffffff"
          class="outer border"
          id="rect314"
-         style="fill:none" />
+         style="fill:#d40000" />
       <!-- Outer Fill -->
       <rect
          x="271"
@@ -1381,7 +1409,7 @@
          rx="5"
          fill="#ffffff"
          id="rect316"
-         style="fill:none" />
+         style="fill:#d40000" />
       <!-- Inner Border -->
       <rect
          x="277"
@@ -1392,7 +1420,7 @@
          fill="#fffffe"
          class="inner border"
          id="rect318"
-         style="fill:none" />
+         style="fill:#d40000" />
       <!-- Inner Fill -->
       <rect
          x="277"
@@ -1402,7 +1430,7 @@
          rx="5"
          fill="#fffffe"
          id="rect320"
-         style="fill:none" />
+         style="fill:#d40000" />
     </g>
     <g
        class="  keycap"
@@ -2201,7 +2229,8 @@
     <g
        class="  keycap"
        id="g512"
-       transform="translate(5,5)">
+       transform="translate(5,5)"
+       style="fill:#b200b2;fill-opacity:1">
       <!-- Outer Border -->
       <rect
          x="622"
@@ -2211,7 +2240,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect504" />
+         id="rect504"
+         style="fill:#b200b2;fill-opacity:1" />
       <!-- Outer Fill -->
       <rect
          x="622"
@@ -2220,7 +2250,8 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect506" />
+         id="rect506"
+         style="fill:#b200b2;fill-opacity:1" />
       <!-- Inner Border -->
       <rect
          x="628"
@@ -2230,7 +2261,8 @@
          rx="5"
          fill="#fffffe"
          class="inner border"
-         id="rect508" />
+         id="rect508"
+         style="fill:#b200b2;fill-opacity:1" />
       <!-- Inner Fill -->
       <rect
          x="628"
@@ -2239,7 +2271,8 @@
          height="40"
          rx="5"
          fill="#fffffe"
-         id="rect510" />
+         id="rect510"
+         style="fill:#b200b2;fill-opacity:1" />
     </g>
     <g
        class="  keycap"
@@ -2801,6 +2834,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="282.03296"
+       y="420.3176"
+       id="text4880-0"><tspan
+         sodipodi:role="line"
+         id="tspan4878-1"
+         x="282.03296"
+         y="420.3176">paus</tspan></text>
     <g
        class="keycap"
        id="g2785"
@@ -2873,6 +2916,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="77.569107"
+       y="434.5274"
+       id="text4880-5"><tspan
+         sodipodi:role="line"
+         id="tspan4878-16"
+         x="77.569107"
+         y="434.5274">ins</tspan></text>
     <g
        class="keycap"
        id="g2805"
@@ -3061,6 +3114,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="604.12274"
+       y="467.68372"
+       id="text4880-8"><tspan
+         sodipodi:role="line"
+         id="tspan4878-6"
+         x="604.12274"
+         y="467.68372">pgup</tspan></text>
     <g
        class="keycap"
        id="g2865"
@@ -3332,26 +3395,7 @@
          id="rect2919"
          style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="817"
-         y="105.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect2921"
-         style="stroke:#ff6600" />
       <!-- Inner Fill -->
-      <rect
-         x="817"
-         y="105.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect2923"
-         style="stroke:#ff6600" />
     </g>
     <g
        class="keycap"
@@ -3411,6 +3455,24 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="675.75403"
+       y="503.13126"
+       id="text21300"><tspan
+         sodipodi:role="line"
+         x="675.75403"
+         y="503.13126"
+         id="tspan21298"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           id="tspan21294">↓</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           id="tspan21296"> </tspan></tspan></text>
     <g
        class="keycap"
        id="g2955"
@@ -3527,6 +3589,24 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="724.88434"
+       y="522.94244"
+       id="text21280"><tspan
+         sodipodi:role="line"
+         x="724.88434"
+         y="522.94244"
+         id="tspan21278"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           id="tspan21274">→</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           id="tspan21276"> </tspan></tspan></text>
     <g
        class="keycap"
        id="g2995"
@@ -3760,26 +3840,7 @@
          id="rect3039"
          style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="817"
-         y="159.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect3041"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
       <!-- Inner Fill -->
-      <rect
-         x="817"
-         y="159.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect3043"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ff6600" />
     </g>
     <g
        class="keycap"
@@ -3940,6 +4001,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="604.12268"
+       y="575.047"
+       id="text4880-60"><tspan
+         sodipodi:role="line"
+         id="tspan4878-0"
+         x="604.12268"
+         y="575.047">pgdn</tspan></text>
     <g
        class="keycap"
        id="g3105"
@@ -4211,27 +4282,22 @@
          id="rect3159"
          style="stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="817"
-         y="213.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect3161"
-         style="stroke:#ff6600" />
       <!-- Inner Fill -->
-      <rect
-         x="817"
-         y="213.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect3163"
-         style="stroke:#ff6600" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="829.90137"
+       y="586.09906"
+       id="text4880-4"><tspan
+         sodipodi:role="line"
+         id="tspan4878-12"
+         x="829.90137"
+         y="586.09906">DT</tspan><tspan
+         sodipodi:role="line"
+         x="829.90137"
+         y="609.43243"
+         id="tspan22244">prn</tspan></text>
     <g
        class="keycap"
        id="g3175"
@@ -4481,6 +4547,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="465.18204"
+       y="723.46094"
+       id="text4880-6"><tspan
+         sodipodi:role="line"
+         id="tspan4878-5"
+         x="465.18204"
+         y="723.46094">home</tspan></text>
     <g
        class="keycap"
        transform="rotate(-28,1374.7153,703.57453)"
@@ -4510,6 +4586,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="522.02142"
+       y="681.62079"
+       id="text4880-01"><tspan
+         sodipodi:role="line"
+         id="tspan4878-3"
+         x="522.02142"
+         y="681.62079">end</tspan></text>
     <g
        class="keycap"
        transform="rotate(-14,2106.3173,689.74778)"
@@ -4580,32 +4666,27 @@
          id="rect36-7"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="169"
-         y="10.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect38-8"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="169"
-         y="10.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect40-6"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="182.8156"
+       y="738.65808"
+       id="text63292-3-8"><tspan
+         sodipodi:role="line"
+         x="182.8156"
+         y="738.65808"
+         id="tspan63290-0-4">fmt</tspan><tspan
+         sodipodi:role="line"
+         x="182.8156"
+         y="758.65808"
+         id="tspan69497-9">%</tspan></text>
     <g
        class="keycap"
        id="g52-0"
        transform="translate(5.6887043,709.25326)"
-       style="stroke:#008000">
+       style="stroke:#000000">
       <!-- Outer Border -->
       <rect
          x="649"
@@ -4616,7 +4697,7 @@
          fill="#ffffff"
          class="outer border"
          id="rect44-0"
-         style="stroke:#008000" />
+         style="stroke:#000000" />
       <!-- Outer Fill -->
       <rect
          x="649"
@@ -4626,29 +4707,20 @@
          rx="5"
          fill="#ffffff"
          id="rect46-9"
-         style="stroke:#008000" />
+         style="stroke:#000000" />
       <!-- Inner Border -->
-      <rect
-         x="655"
-         y="10.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect48-8"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="655"
-         y="10.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect50-1"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="692.12256"
+       y="759.92987"
+       id="text21314-6"><tspan
+         sodipodi:role="line"
+         id="tspan21312-5"
+         x="692.12256"
+         y="759.92987">ü</tspan></text>
     <g
        class="keycap"
        id="g62-6"
@@ -4676,27 +4748,22 @@
          id="rect56-0"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="115"
-         y="31"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect58-9"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="115"
-         y="31"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect60-4"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="123.60789"
+       y="759.97284"
+       id="text63292-3-4"><tspan
+         sodipodi:role="line"
+         x="123.60789"
+         y="759.97284"
+         id="tspan63290-0-2">fmt</tspan><tspan
+         sodipodi:role="line"
+         x="123.60789"
+         y="779.97284"
+         id="tspan69497-5">#.##</tspan></text>
     <g
        class="keycap"
        id="g72-6"
@@ -4724,27 +4791,22 @@
          id="rect66-6"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="223"
-         y="31"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect68-1"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="223"
-         y="31"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect70-1"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="231.0264"
+       y="759.12091"
+       id="text63292-3"><tspan
+         sodipodi:role="line"
+         x="231.0264"
+         y="759.12091"
+         id="tspan63290-0">fmt</tspan><tspan
+         sodipodi:role="line"
+         x="231.0264"
+         y="779.12091"
+         id="tspan69497">date</tspan></text>
     <g
        class="keycap"
        id="g82-4"
@@ -4930,32 +4992,27 @@
          id="rect116-8"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="61"
-         y="51.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect118-6"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="61"
-         y="51.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect120-9"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="71.962555"
+       y="778.91931"
+       id="text63292-3-4-8"><tspan
+         sodipodi:role="line"
+         x="71.962555"
+         y="778.91931"
+         id="tspan63290-0-2-5">fmt</tspan><tspan
+         sodipodi:role="line"
+         x="71.962555"
+         y="798.91931"
+         id="tspan69497-5-3">#</tspan></text>
     <g
        class="keycap"
        id="g132-4"
        transform="translate(5.6887043,709.25326)"
-       style="stroke:#008000">
+       style="stroke:#000000">
       <!-- Outer Border -->
       <rect
          x="757"
@@ -4966,7 +5023,7 @@
          fill="#ffffff"
          class="outer border"
          id="rect124-7"
-         style="stroke:#008000" />
+         style="stroke:#000000" />
       <!-- Outer Fill -->
       <rect
          x="757"
@@ -4976,29 +5033,20 @@
          rx="5"
          fill="#ffffff"
          id="rect126-9"
-         style="stroke:#008000" />
+         style="stroke:#000000" />
       <!-- Inner Border -->
-      <rect
-         x="763"
-         y="51.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect128-9"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="763"
-         y="51.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect130-7"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="804.22247"
+       y="802.55945"
+       id="text21314-80"><tspan
+         sodipodi:role="line"
+         id="tspan21312-2"
+         x="804.22247"
+         y="802.55945">ï</tspan></text>
     <g
        class="keycap"
        id="g142-5"
@@ -5042,6 +5090,16 @@
          fill="#fffffe"
          id="rect140-9" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="205.04076"
+       y="818.34814"
+       id="text21314-2"><tspan
+         sodipodi:role="line"
+         id="tspan21312-7"
+         x="205.04076"
+         y="818.34814">ĥ</tspan></text>
     <g
        class="keycap"
        id="g152-7"
@@ -5071,6 +5129,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="692.12262"
+       y="815.19037"
+       id="text21314-53"><tspan
+         sodipodi:role="line"
+         id="tspan21312-23"
+         x="692.12262"
+         y="815.19037">ŭ</tspan></text>
     <g
        class="keycap"
        id="g162-8"
@@ -5141,27 +5209,22 @@
          id="rect166-9"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="223"
-         y="85"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect168-7"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="223"
-         y="85"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect170-4"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="236.55244"
+       y="811.22363"
+       id="text63292-5"><tspan
+         sodipodi:role="line"
+         id="tspan63288-2"
+         x="236.55244"
+         y="811.22363">pst</tspan><tspan
+         sodipodi:role="line"
+         x="236.55244"
+         y="831.22363"
+         id="tspan63290-48">f(x)</tspan></text>
     <g
        class="keycap"
        id="g182-3"
@@ -5220,6 +5283,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="744.22534"
+       y="835.7157"
+       id="text21314-32"><tspan
+         sodipodi:role="line"
+         id="tspan21312-9"
+         x="744.22534"
+         y="835.7157">ò</tspan></text>
     <g
        class="keycap"
        id="g202-5"
@@ -5247,27 +5320,22 @@
          id="rect196-9"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="277"
-         y="91.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect198-1"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="277"
-         y="91.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect200-1"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="288.65521"
+       y="820.6969"
+       id="text63292-8"><tspan
+         sodipodi:role="line"
+         id="tspan63288-1"
+         x="288.65521"
+         y="820.6969">pst</tspan><tspan
+         sodipodi:role="line"
+         x="288.65521"
+         y="840.6969"
+         id="tspan63290-7">fmt</tspan></text>
     <g
        class="keycap"
        id="g212-4"
@@ -5311,6 +5379,16 @@
          fill="#fffffe"
          id="rect210-0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="589.49591"
+       y="841.24176"
+       id="text21314-9"><tspan
+         sodipodi:role="line"
+         id="tspan21312-48"
+         x="589.49591"
+         y="841.24176">ĵ</tspan></text>
     <g
        class="keycap"
        id="g222-9"
@@ -5440,6 +5518,16 @@
          fill="#fffffe"
          id="rect240-4" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="805.0119"
+       y="854.66217"
+       id="text21314-77"><tspan
+         sodipodi:role="line"
+         id="tspan21312-98"
+         x="805.0119"
+         y="854.66217">ì</tspan></text>
     <g
        class="keycap"
        id="g252-4"
@@ -5608,6 +5696,16 @@
          id="rect280-4"
          style="fill:#ffffff;fill-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="154.51686"
+       y="890.18677"
+       id="text21314-7"><tspan
+         sodipodi:role="line"
+         id="tspan21312-0"
+         x="154.51686"
+         y="890.18677">ŝ</tspan></text>
     <g
        class="keycap"
        id="g292-8"
@@ -5714,6 +5812,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="745.01477"
+       y="893.34454"
+       id="text21314-71"><tspan
+         sodipodi:role="line"
+         id="tspan21312-37"
+         x="745.01477"
+         y="893.34454">ó</tspan></text>
     <g
        class="keycap"
        id="g322-2"
@@ -5741,27 +5849,32 @@
          id="rect316-6"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="277"
-         y="145.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect318-4"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="277"
-         y="145.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect320-1"
-         style="stroke:#008000" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="284.70804"
+       y="868.85248"
+       id="text63292-7"><tspan
+         sodipodi:role="line"
+         id="tspan63288-6"
+         x="284.70804"
+         y="868.85248">pst</tspan><tspan
+         sodipodi:role="line"
+         x="284.70804"
+         y="888.85248"
+         id="tspan63290-4">val</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="311.61459"
+       y="895.71283"
+       id="text21314-89"><tspan
+         sodipodi:role="line"
+         id="tspan21312-00"
+         x="311.61459"
+         y="895.71283">ĝ</tspan></text>
     <g
        class="keycap"
        id="g332-4"
@@ -5834,6 +5947,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="14.149465"
+       y="898.48071"
+       id="text4880-60-1"><tspan
+         sodipodi:role="line"
+         id="tspan4878-0-6"
+         x="14.149465"
+         y="898.48071">unic</tspan></text>
     <g
        class="keycap"
        id="g352-1"
@@ -5882,6 +6005,16 @@
          id="rect350-8"
          style="fill:#ffffff;fill-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="95.309189"
+       y="913.08038"
+       id="text21314-4"><tspan
+         sodipodi:role="line"
+         id="tspan21312-4"
+         x="95.309189"
+         y="913.08038">á</tspan></text>
     <g
        class="keycap"
        id="g362-2"
@@ -5911,6 +6044,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="805.0119"
+       y="913.08044"
+       id="text21314-896"><tspan
+         sodipodi:role="line"
+         id="tspan21312-53"
+         x="805.0119"
+         y="913.08044">í</tspan></text>
     <g
        class="keycap"
        id="g372-6"
@@ -5940,6 +6083,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="835.52264"
+       y="897.85327"
+       id="text74280-7"><tspan
+         sodipodi:role="line"
+         id="tspan74278-89"
+         x="835.52264"
+         y="897.85327">%</tspan></text>
     <g
        class="keycap"
        id="g382-0"
@@ -5983,6 +6136,16 @@
          fill="#fffffe"
          id="rect380-6" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="205.83018"
+       y="923.34308"
+       id="text21314-8"><tspan
+         sodipodi:role="line"
+         id="tspan21312-3"
+         x="205.83018"
+         y="923.34308">ý</tspan></text>
     <g
        class="keycap"
        id="g392-3"
@@ -6012,6 +6175,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="691.33319"
+       y="920.1853"
+       id="text21314-5"><tspan
+         sodipodi:role="line"
+         id="tspan21312-28"
+         x="691.33319"
+         y="920.1853">¿</tspan></text>
     <g
        class="keycap"
        id="g402-2"
@@ -6082,26 +6255,7 @@
          id="rect406-1"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="223"
-         y="193"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect408-9"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="223"
-         y="193"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect410-0"
-         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -6161,10 +6315,20 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="748.17255"
+       y="941.50012"
+       id="text21314-3"><tspan
+         sodipodi:role="line"
+         id="tspan21312-70"
+         x="748.17255"
+         y="941.50012">¡</tspan></text>
     <g
        class="keycap"
        id="g442-1"
-       transform="translate(5.6887043,709.25326)"
+       transform="translate(5.6887043,707.25326)"
        style="stroke:#008000">
       <!-- Outer Border -->
       <rect
@@ -6188,26 +6352,7 @@
          id="rect436-4"
          style="stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="277"
-         y="199.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect438-1"
-         style="stroke:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="277"
-         y="199.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect440-5"
-         style="stroke:#008000" />
     </g>
     <g
        class="keycap"
@@ -6367,6 +6512,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="797.90698"
+       y="967.55151"
+       id="text21314-46"><tspan
+         sodipodi:role="line"
+         id="tspan21312-29"
+         x="797.90698"
+         y="967.55151">·</tspan></text>
     <g
        class="keycap"
        id="g492-7"
@@ -6468,6 +6623,20 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="635.00598"
+       y="994.16443"
+       id="text74280-4"><tspan
+         sodipodi:role="line"
+         id="tspan74278-8"
+         x="635.00598"
+         y="994.16443">num</tspan><tspan
+         sodipodi:role="line"
+         x="635.00598"
+         y="1017.4979"
+         id="tspan75366">lck</tspan></text>
     <g
        class="keycap"
        transform="rotate(14,-2682.8578,917.79202)"
@@ -6515,7 +6684,7 @@
        class="keycap"
        transform="rotate(28,-1216.9853,906.03469)"
        id="g532-0"
-       style="fill:#ffffff;fill-opacity:1;stroke:#008000">
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000">
       <!-- Outer Border -->
       <rect
          x="190"
@@ -6526,7 +6695,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect524-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:#008000" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000" />
       <!-- Outer Fill -->
       <rect
          x="190"
@@ -6536,7 +6705,7 @@
          rx="5"
          fill="#dddddd"
          id="rect526-4"
-         style="fill:#ffffff;fill-opacity:1;stroke:#008000" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000" />
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
@@ -6836,6 +7005,24 @@
          y="529.16595">.</tspan></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="614.349"
+       y="520.5741"
+       id="text13550"><tspan
+         sodipodi:role="line"
+         x="614.349"
+         y="520.5741"
+         id="tspan13548"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           id="tspan13544">←</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           id="tspan13546"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="246.8817"
        y="883.62262"
@@ -6984,5 +7171,357 @@
          id="tspan12558"
          x="646.28851"
          y="303.63403">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="636.86212"
+       y="889.79895"
+       id="text4774-7"><tspan
+         sodipodi:role="line"
+         id="tspan4772-4"
+         x="636.86212"
+         y="889.79895">ñ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="566.55554"
+       y="72.329399"
+       id="text2867"><tspan
+         sodipodi:role="line"
+         id="tspan2865"
+         x="566.55554"
+         y="72.329399">(</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="621.02661"
+       y="66.803352"
+       id="text2973"><tspan
+         sodipodi:role="line"
+         id="tspan2971"
+         x="621.02661"
+         y="66.803352">)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="661.28784"
+       y="57.330124"
+       id="text3079"><tspan
+         sodipodi:role="line"
+         id="tspan3077"
+         x="661.28784"
+         y="57.330124">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="662.07727"
+       y="28.121004"
+       id="text3185"><tspan
+         sodipodi:role="line"
+         id="tspan3183"
+         x="662.07727"
+         y="28.121004">_</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="686.54974"
+       y="47.856899"
+       id="text3753"><tspan
+         sodipodi:role="line"
+         id="tspan3751"
+         x="686.54974"
+         y="47.856899">û</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="685.76031"
+       y="101.53853"
+       id="text3859"><tspan
+         sodipodi:role="line"
+         id="tspan3857"
+         x="685.76031"
+         y="101.53853">ù</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="718.84125"
+       y="106.90588"
+       id="text4981"><tspan
+         sodipodi:role="line"
+         id="tspan4979"
+         x="718.84125"
+         y="106.90588">prn</tspan><tspan
+         sodipodi:role="line"
+         x="718.84125"
+         y="130.23926"
+         id="tspan5005">scr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="768.65112"
+       y="86.539246"
+       id="text5089"><tspan
+         sodipodi:role="line"
+         id="tspan5087"
+         x="768.65112"
+         y="86.539246">[</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="739.44196"
+       y="68.382225"
+       id="text5459"><tspan
+         sodipodi:role="line"
+         id="tspan5457"
+         x="739.44196"
+         y="68.382225">ô</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="794.70245"
+       y="87.328682"
+       id="text5565"><tspan
+         sodipodi:role="line"
+         id="tspan5563"
+         x="794.70245"
+         y="87.328682">î</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="716.54834"
+       y="69.171661"
+       id="text5671"><tspan
+         sodipodi:role="line"
+         id="tspan5669"
+         x="716.54834"
+         y="69.171661">$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="793.91302"
+       y="141.01031"
+       id="text6606"><tspan
+         sodipodi:role="line"
+         id="tspan6604"
+         x="793.91302"
+         y="141.01031">â</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="820.75378"
+       y="142.5892"
+       id="text6712"><tspan
+         sodipodi:role="line"
+         id="tspan6710"
+         x="820.75378"
+         y="142.5892">è</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="793.91302"
+       y="248.3736"
+       id="text7651"><tspan
+         sodipodi:role="line"
+         id="tspan7649"
+         x="793.91302"
+         y="248.3736">ë</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="819.96442"
+       y="248.3736"
+       id="text7823"><tspan
+         sodipodi:role="line"
+         id="tspan7821"
+         x="819.96442"
+         y="248.3736">ê</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="556.29291"
+       y="771.76941"
+       id="text13272"><tspan
+         sodipodi:role="line"
+         id="tspan13270"
+         x="556.29291"
+         y="771.76941">^</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="581.55487"
+       y="787.55817"
+       id="text13378"><tspan
+         sodipodi:role="line"
+         id="tspan13376"
+         x="581.55487"
+         y="787.55817"
+         style="fill:#008000">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="638.39423"
+       y="780.45325"
+       id="text17510"><tspan
+         sodipodi:role="line"
+         id="tspan17508"
+         x="638.39423"
+         y="780.45325"
+         style="fill:#008000">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="692.12262"
+       y="872.43134"
+       id="text20712"><tspan
+         sodipodi:role="line"
+         id="tspan20710"
+         x="692.12262"
+         y="872.43134">ú</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="621.7406"
+       y="928.70844"
+       id="text20818"><tspan
+         sodipodi:role="line"
+         id="tspan20816"
+         x="621.7406"
+         y="928.70844">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="226.23337"
+       y="913.70923"
+       id="text21188"><tspan
+         sodipodi:role="line"
+         id="tspan21186"
+         x="226.23337"
+         y="913.70923">pst</tspan><tspan
+         sodipodi:role="line"
+         x="226.23337"
+         y="933.70923"
+         id="tspan21212">spe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="261.09073"
+       y="945.84888"
+       id="text21314"><tspan
+         sodipodi:role="line"
+         id="tspan21312"
+         x="261.09073"
+         y="945.84888">ĉ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="530.95551"
+       y="1035.2822"
+       id="text25434"><tspan
+         sodipodi:role="line"
+         id="tspan25432"
+         x="530.95551"
+         y="1035.2822">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="79.937416"
+       y="596.36176"
+       id="text2803"><tspan
+         sodipodi:role="line"
+         id="tspan2801"
+         x="79.937416"
+         y="596.36176">f1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="239.40343"
+       y="468.47318"
+       id="text3385"><tspan
+         sodipodi:role="line"
+         id="tspan3383"
+         x="239.40343"
+         y="468.47318">f12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="676.54346"
+       y="445.6853"
+       id="text21260"><tspan
+         sodipodi:role="line"
+         x="676.54346"
+         y="445.6853"
+         id="tspan21258"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           id="tspan21254">↑</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           id="tspan21256"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="838.1214"
+       y="489.94089"
+       id="text22658"><tspan
+         sodipodi:role="line"
+         id="tspan22656"
+         x="838.1214"
+         y="489.94089">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="839.70032"
+       y="543.6225"
+       id="text22662"><tspan
+         sodipodi:role="line"
+         id="tspan22660"
+         x="839.70032"
+         y="543.6225">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="292.54596"
+       y="925.55078"
+       id="text63292"><tspan
+         sodipodi:role="line"
+         id="tspan63288"
+         x="292.54596"
+         y="925.55078">pst</tspan><tspan
+         sodipodi:role="line"
+         x="292.54596"
+         y="945.55078"
+         id="tspan63290">lnk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="467.0112"
+       y="1077.9117"
+       id="text74280"><tspan
+         sodipodi:role="line"
+         id="tspan74278"
+         x="467.0112"
+         y="1077.9117">enter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="623.31946"
+       y="822.13464"
+       id="text75552"><tspan
+         sodipodi:role="line"
+         id="tspan75550"
+         x="623.31946"
+         y="822.13464">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="786.57764"
+       y="893.90613"
+       id="text78579"><tspan
+         sodipodi:role="line"
+         id="tspan78577"
+         x="786.57764"
+         y="893.90613">.</tspan></text>
   </g>
 </svg>
