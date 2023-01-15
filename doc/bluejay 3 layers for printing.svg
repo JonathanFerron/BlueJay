@@ -25,8 +25,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.2667276"
-     inkscape:cx="470.10896"
-     inkscape:cy="470.8984"
+     inkscape:cx="486.68711"
+     inkscape:cy="666.67846"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="-8"
@@ -1388,7 +1388,7 @@
        class="  keycap"
        id="g322"
        transform="translate(5,5)"
-       style="fill:#d40000">
+       style="fill:none;stroke:#d40000">
       <!-- Outer Border -->
       <rect
          x="271"
@@ -1399,7 +1399,7 @@
          fill="#ffffff"
          class="outer border"
          id="rect314"
-         style="fill:#d40000" />
+         style="fill:none;stroke:#d40000" />
       <!-- Outer Fill -->
       <rect
          x="271"
@@ -1409,28 +1409,9 @@
          rx="5"
          fill="#ffffff"
          id="rect316"
-         style="fill:#d40000" />
+         style="fill:none;stroke:#d40000" />
       <!-- Inner Border -->
-      <rect
-         x="277"
-         y="145.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect318"
-         style="fill:#d40000" />
       <!-- Inner Fill -->
-      <rect
-         x="277"
-         y="145.75"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect320"
-         style="fill:#d40000" />
     </g>
     <g
        class="  keycap"
@@ -2230,7 +2211,7 @@
        class="  keycap"
        id="g512"
        transform="translate(5,5)"
-       style="fill:#b200b2;fill-opacity:1">
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1">
       <!-- Outer Border -->
       <rect
          x="622"
@@ -2241,7 +2222,7 @@
          fill="#ffffff"
          class="outer border"
          id="rect504"
-         style="fill:#b200b2;fill-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
       <!-- Outer Fill -->
       <rect
          x="622"
@@ -2251,33 +2232,15 @@
          rx="5"
          fill="#ffffff"
          id="rect506"
-         style="fill:#b200b2;fill-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
       <!-- Inner Border -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect508"
-         style="fill:#b200b2;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect510"
-         style="fill:#b200b2;fill-opacity:1" />
     </g>
     <g
        class="  keycap"
        transform="rotate(14,184.63913,562.86087)"
-       id="g522">
+       id="g522"
+       style="stroke:#b200b2;stroke-opacity:1">
       <!-- Outer Border -->
       <rect
          x="190"
@@ -2287,7 +2250,8 @@
          rx="5"
          fill="#ffffff"
          class="outer border"
-         id="rect514" />
+         id="rect514"
+         style="stroke:#b200b2;stroke-opacity:1" />
       <!-- Outer Fill -->
       <rect
          x="190"
@@ -2296,32 +2260,16 @@
          height="52"
          rx="5"
          fill="#ffffff"
-         id="rect516" />
+         id="rect516"
+         style="stroke:#b200b2;stroke-opacity:1" />
       <!-- Inner Border -->
-      <rect
-         x="196"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect518" />
       <!-- Inner Fill -->
-      <rect
-         x="196"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect520" />
     </g>
     <g
        class="  keycap"
        transform="rotate(28,194.97305,552.52695)"
        id="g532"
-       style="fill:#0000ff;fill-opacity:1">
+       style="fill:none;fill-opacity:1;stroke:#0000ff">
       <!-- Outer Border -->
       <rect
          x="190"
@@ -2332,7 +2280,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect524"
-         style="fill:#0000ff;fill-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#0000ff" />
       <!-- Outer Fill -->
       <rect
          x="190"
@@ -2342,28 +2290,9 @@
          rx="5"
          fill="#dddddd"
          id="rect526"
-         style="fill:#0000ff;fill-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#0000ff" />
       <!-- Inner Border -->
-      <rect
-         x="196"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect528"
-         style="fill:#0000ff;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="196"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect530"
-         style="fill:#0000ff;fill-opacity:1" />
     </g>
     <g
        class="  keycap"
@@ -2412,7 +2341,7 @@
        class="  keycap"
        transform="rotate(-42,670.51272,535.98728)"
        id="g552"
-       style="fill:#008000">
+       style="fill:none;stroke:#008000">
       <!-- Outer Border -->
       <rect
          x="622"
@@ -2423,7 +2352,7 @@
          fill="#ffffff"
          class="outer border"
          id="rect544"
-         style="fill:#008000" />
+         style="fill:none;stroke:#008000" />
       <!-- Outer Fill -->
       <rect
          x="622"
@@ -2433,34 +2362,15 @@
          rx="5"
          fill="#ffffff"
          id="rect546"
-         style="fill:#008000" />
+         style="fill:none;stroke:#008000" />
       <!-- Inner Border -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         class="inner border"
-         id="rect548"
-         style="fill:#008000" />
       <!-- Inner Fill -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#fffffe"
-         id="rect550"
-         style="fill:#008000" />
     </g>
     <g
        class="  keycap"
        transform="rotate(-28,674.02695,532.47305)"
        id="g562"
-       style="fill:#ff6600;fill-opacity:1">
+       style="fill:none;fill-opacity:1;stroke:#ff6600">
       <!-- Outer Border -->
       <rect
          x="622"
@@ -2471,7 +2381,7 @@
          fill="#dddddd"
          class="outer border"
          id="rect554"
-         style="fill:#ff6600;fill-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#ff6600" />
       <!-- Outer Fill -->
       <rect
          x="622"
@@ -2481,28 +2391,9 @@
          rx="5"
          fill="#dddddd"
          id="rect556"
-         style="fill:#ff6600;fill-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#ff6600" />
       <!-- Inner Border -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         class="inner border"
-         id="rect558"
-         style="fill:#ff6600;fill-opacity:1" />
       <!-- Inner Fill -->
-      <rect
-         x="628"
-         y="267.25"
-         width="40"
-         height="40"
-         rx="5"
-         fill="#feffff"
-         id="rect560"
-         style="fill:#ff6600;fill-opacity:1" />
     </g>
     <g
        class="  keycap"
@@ -4475,6 +4366,16 @@
          id="rect3203"
          style="fill:#ffffff;fill-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="331.35132"
+       y="691.00031"
+       id="text19011-1"><tspan
+         sodipodi:role="line"
+         id="tspan19009-1"
+         x="331.35132"
+         y="691.00031">.</tspan></text>
     <g
        class="keycap"
        transform="rotate(42,-255.23115,725.70454)"
@@ -6781,6 +6682,16 @@
       <!-- Inner Border -->
       <!-- Inner Fill -->
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="483.87051"
+       y="1101.5205"
+       id="text21314-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan3590"
+         x="483.87051"
+         y="1101.5205"></tspan></text>
     <g
        class="keycap"
        transform="rotate(-28,2086.6741,883.2186)"
@@ -6929,7 +6840,7 @@
        id="path15939"
        transform="translate(5,11.75)" />
     <path
-       style="fill:#d40000;stroke-width:1.0549;stroke-linejoin:round"
+       style="fill:none;stroke-width:1.0549;stroke-linejoin:round"
        d="m 268.80152,318.83107 c -20.89092,-5.31669 -21.2056,-5.41779 -22.1957,-7.13074 l -1.00434,-1.73758 5.40204,-21.68564 c 5.6624,-22.73082 6.2301,-24.24125 9.1111,-24.24125 1.36805,0 40.90012,9.79918 43.1572,10.69778 1.85655,0.73913 2.63019,2.01652 2.63019,4.34283 0,0.94426 -2.30637,10.94006 -5.12525,22.21289 -5.50569,22.01742 -5.93551,23.08849 -9.22342,22.98431 -0.85826,-0.0272 -11.09658,-2.47637 -22.75182,-5.4426 z"
        id="path15978"
        transform="translate(5,11.75)" />
@@ -7523,5 +7434,56 @@
          id="tspan78577"
          x="786.57764"
          y="893.90613">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="282.6709"
+       y="176.20169"
+       id="text3850-5"><tspan
+         sodipodi:role="line"
+         id="tspan3848-4"
+         x="282.6709"
+         y="176.20169"
+         style="fill:#d40000">num</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff"
+       x="318.98495"
+       y="331.72052"
+       id="text3833"><tspan
+         sodipodi:role="line"
+         id="tspan3831"
+         x="318.98495"
+         y="331.72052">nav</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008000"
+       x="465.03058"
+       y="373.56061"
+       id="text8337"><tspan
+         sodipodi:role="line"
+         id="tspan8335"
+         x="465.03058"
+         y="373.56061">excel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff6600"
+       x="523.44879"
+       y="330.93109"
+       id="text3850-3"><tspan
+         sodipodi:role="line"
+         id="tspan3848-0"
+         x="523.44879"
+         y="330.93109">fct</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b200b2;fill-opacity:1"
+       x="258.19843"
+       y="310.40576"
+       id="text11426"><tspan
+         sodipodi:role="line"
+         id="tspan11424"
+         x="258.19843"
+         y="310.40576">symb</tspan></text>
   </g>
 </svg>
